@@ -88,7 +88,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي الرحمانية",
-    "name_en": "Ar Rahmaniyah"
+    "name_en": "Rahmaniyah"
   },
   {
     "district_id": 10100003014,
@@ -102,7 +102,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي الرفيعة",
-    "name_en": "Ar Rafiah"
+    "name_en": "Rafiah"
   },
   {
     "district_id": 10100003016,
@@ -326,7 +326,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10100003048,
@@ -347,7 +347,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10100003051,
@@ -725,7 +725,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10100003105,
@@ -1425,14 +1425,14 @@
     "city_id": 153,
     "region_id": 1,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10100153004,
     "city_id": 153,
     "region_id": 1,
     "name_ar": "حي الرفيعة",
-    "name_en": "Ar Rafiah"
+    "name_en": "Rafiah"
   },
   {
     "district_id": 10100162001,
@@ -1544,7 +1544,7 @@
     "city_id": 165,
     "region_id": 1,
     "name_ar": "حي الشبيلية",
-    "name_en": "Ash Shibilyah"
+    "name_en": "Shibilyah"
   },
   {
     "district_id": 10100165003,
@@ -1558,7 +1558,7 @@
     "city_id": 165,
     "region_id": 1,
     "name_ar": "حي الربعة",
-    "name_en": "Ar Rabah"
+    "name_en": "Rabah"
   },
   {
     "district_id": 10100165005,
@@ -1586,7 +1586,7 @@
     "city_id": 165,
     "region_id": 1,
     "name_ar": "حي الشفا",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10100165009,
@@ -1733,7 +1733,7 @@
     "city_id": 167,
     "region_id": 1,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10100167014,
@@ -1775,7 +1775,7 @@
     "city_id": 168,
     "region_id": 1,
     "name_ar": "حي الروضه",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10100168004,
@@ -1887,21 +1887,21 @@
     "city_id": 270,
     "region_id": 1,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10100270008,
     "city_id": 270,
     "region_id": 1,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10100270009,
     "city_id": 270,
     "region_id": 1,
     "name_ar": "حي الريان",
-    "name_en": "Ar Riyan"
+    "name_en": "Riyan"
   },
   {
     "district_id": 10100270010,
@@ -1922,7 +1922,7 @@
     "city_id": 270,
     "region_id": 1,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10100270013,
@@ -1957,7 +1957,7 @@
     "city_id": 270,
     "region_id": 1,
     "name_ar": "حي الصديق",
-    "name_en": "As Sediq"
+    "name_en": "Sediq"
   },
   {
     "district_id": 10100270018,
@@ -2013,14 +2013,14 @@
     "city_id": 270,
     "region_id": 1,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10100270027,
     "city_id": 270,
     "region_id": 1,
     "name_ar": "حي السيح",
-    "name_en": "As Sieh"
+    "name_en": "Sieh"
   },
   {
     "district_id": 10100270028,
@@ -2090,14 +2090,14 @@
     "city_id": 270,
     "region_id": 1,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10100270038,
     "city_id": 270,
     "region_id": 1,
     "name_ar": "حي السعادة",
-    "name_en": "As Saadah"
+    "name_en": "Saadah"
   },
   {
     "district_id": 10100270039,
@@ -2167,7 +2167,7 @@
     "city_id": 270,
     "region_id": 1,
     "name_ar": "حي السيح",
-    "name_en": "As Sieh"
+    "name_en": "Sieh"
   },
   {
     "district_id": 10100270049,
@@ -2209,7 +2209,7 @@
     "city_id": 306,
     "region_id": 1,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10100306005,
@@ -2251,7 +2251,7 @@
     "city_id": 306,
     "region_id": 1,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10100306011,
@@ -2356,7 +2356,7 @@
     "city_id": 418,
     "region_id": 1,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10100418012,
@@ -2377,7 +2377,7 @@
     "city_id": 418,
     "region_id": 1,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10100418015,
@@ -2398,7 +2398,7 @@
     "city_id": 418,
     "region_id": 1,
     "name_ar": "حي السليمانية",
-    "name_en": "As Sulaymaniyah"
+    "name_en": "Sulaymaniyah"
   },
   {
     "district_id": 10100418018,
@@ -2412,7 +2412,7 @@
     "city_id": 443,
     "region_id": 1,
     "name_ar": "حي الديرة القديمة",
-    "name_en": "Ad Dirah Al Qadimah"
+    "name_en": "Dirah Al Qadimah"
   },
   {
     "district_id": 10100443002,
@@ -2468,7 +2468,7 @@
     "city_id": 500,
     "region_id": 1,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10100500005,
@@ -2482,7 +2482,7 @@
     "city_id": 500,
     "region_id": 1,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10100500007,
@@ -2538,14 +2538,14 @@
     "city_id": 574,
     "region_id": 1,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10100574006,
     "city_id": 574,
     "region_id": 1,
     "name_ar": "حي الديرة",
-    "name_en": "Ad Dirah"
+    "name_en": "Dirah"
   },
   {
     "district_id": 10100574007,
@@ -2559,7 +2559,7 @@
     "city_id": 574,
     "region_id": 1,
     "name_ar": "حي الشرفية",
-    "name_en": "Ash Sharafiyah"
+    "name_en": "Sharafiyah"
   },
   {
     "district_id": 10100574009,
@@ -2573,7 +2573,7 @@
     "city_id": 574,
     "region_id": 1,
     "name_ar": "حي الشفا",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10100669001,
@@ -2615,7 +2615,7 @@
     "city_id": 669,
     "region_id": 1,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10100669007,
@@ -2629,14 +2629,14 @@
     "city_id": 669,
     "region_id": 1,
     "name_ar": "حي الديرة",
-    "name_en": "Ad Dirah"
+    "name_en": "Dirah"
   },
   {
     "district_id": 10100669009,
     "city_id": 669,
     "region_id": 1,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10100669010,
@@ -2657,7 +2657,7 @@
     "city_id": 669,
     "region_id": 1,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10100669013,
@@ -2678,7 +2678,7 @@
     "city_id": 669,
     "region_id": 1,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10100669016,
@@ -2699,21 +2699,21 @@
     "city_id": 669,
     "region_id": 1,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayan"
+    "name_en": "Rayan"
   },
   {
     "district_id": 10100669019,
     "city_id": 669,
     "region_id": 1,
     "name_ar": "حي السنبلة",
-    "name_en": "As Sunbulah"
+    "name_en": "Sunbulah"
   },
   {
     "district_id": 10100669020,
     "city_id": 669,
     "region_id": 1,
     "name_ar": "حي الدرع",
-    "name_en": "Ad Dar"
+    "name_en": "Dar"
   },
   {
     "district_id": 10100669021,
@@ -2748,14 +2748,14 @@
     "city_id": 684,
     "region_id": 1,
     "name_ar": "حي السعادة",
-    "name_en": "As Saadah"
+    "name_en": "Saadah"
   },
   {
     "district_id": 10100684004,
     "city_id": 684,
     "region_id": 1,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10100684005,
@@ -2783,7 +2783,7 @@
     "city_id": 684,
     "region_id": 1,
     "name_ar": "حي الشهداء",
-    "name_en": "Ash Shuhada"
+    "name_en": "Shuhada"
   },
   {
     "district_id": 10100701001,
@@ -2881,14 +2881,14 @@
     "city_id": 701,
     "region_id": 1,
     "name_ar": "حي الرفيعة",
-    "name_en": "Ar Rafiah"
+    "name_en": "Rafiah"
   },
   {
     "district_id": 10100701015,
     "city_id": 701,
     "region_id": 1,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10100701016,
@@ -2986,7 +2986,7 @@
     "city_id": 795,
     "region_id": 1,
     "name_ar": "حي الديرة",
-    "name_en": "Ad Dirah"
+    "name_en": "Dirah"
   },
   {
     "district_id": 10100795002,
@@ -3000,14 +3000,14 @@
     "city_id": 795,
     "region_id": 1,
     "name_ar": "حي السد",
-    "name_en": "As Sad"
+    "name_en": "Sad"
   },
   {
     "district_id": 10100795004,
     "city_id": 795,
     "region_id": 1,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10100795005,
@@ -3189,7 +3189,7 @@
     "city_id": 830,
     "region_id": 1,
     "name_ar": "حي الشهداء",
-    "name_en": "Ash Shuhada"
+    "name_en": "Shuhada"
   },
   {
     "district_id": 10100830008,
@@ -3308,7 +3308,7 @@
     "city_id": 880,
     "region_id": 1,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10100880003,
@@ -3336,7 +3336,7 @@
     "city_id": 880,
     "region_id": 1,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10100880007,
@@ -3364,14 +3364,14 @@
     "city_id": 880,
     "region_id": 1,
     "name_ar": "حي الديرة",
-    "name_en": "Ad Dirah"
+    "name_en": "Dirah"
   },
   {
     "district_id": 10100880011,
     "city_id": 880,
     "region_id": 1,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10100880012,
@@ -3399,7 +3399,7 @@
     "city_id": 880,
     "region_id": 1,
     "name_ar": "حي الضريب",
-    "name_en": "Ad Darib"
+    "name_en": "Darib"
   },
   {
     "district_id": 10100885001,
@@ -3630,7 +3630,7 @@
     "city_id": 962,
     "region_id": 1,
     "name_ar": "حي الرين الاعلى",
-    "name_en": "Ar Rayn Al Aala"
+    "name_en": "Rayn Al Aala"
   },
   {
     "district_id": 10100962006,
@@ -3707,7 +3707,7 @@
     "city_id": 962,
     "region_id": 1,
     "name_ar": "حي الرفايع",
-    "name_en": "Ar Rafayie"
+    "name_en": "Rafayie"
   },
   {
     "district_id": 10100962017,
@@ -3798,7 +3798,7 @@
     "city_id": 962,
     "region_id": 1,
     "name_ar": "حي الرفاع",
-    "name_en": "Ar Rifaa"
+    "name_en": "Rifaa"
   },
   {
     "district_id": 10100962030,
@@ -3847,7 +3847,7 @@
     "city_id": 962,
     "region_id": 1,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 10100962037,
@@ -3868,7 +3868,7 @@
     "city_id": 962,
     "region_id": 1,
     "name_ar": "حي الرفيعة",
-    "name_en": "Ar Rafiah"
+    "name_en": "Rafiah"
   },
   {
     "district_id": 10100962040,
@@ -3882,7 +3882,7 @@
     "city_id": 962,
     "region_id": 1,
     "name_ar": "حي الرين القديم",
-    "name_en": "Ar Rayn Al Qadim"
+    "name_en": "Rayn Al Qadim"
   },
   {
     "district_id": 10100990001,
@@ -4085,7 +4085,7 @@
     "city_id": 1061,
     "region_id": 1,
     "name_ar": "حي السليمانية",
-    "name_en": "As Sulaymaniyah"
+    "name_en": "Sulaymaniyah"
   },
   {
     "district_id": 10101061006,
@@ -4113,14 +4113,14 @@
     "city_id": 1061,
     "region_id": 1,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10101061010,
     "city_id": 1061,
     "region_id": 1,
     "name_ar": "حي الرفيعة",
-    "name_en": "Ar Rafiah"
+    "name_en": "Rafiah"
   },
   {
     "district_id": 10101061011,
@@ -4162,7 +4162,7 @@
     "city_id": 1061,
     "region_id": 1,
     "name_ar": "حي الراشدية",
-    "name_en": "Ar Rashidiyyah"
+    "name_en": "Rashidiyyah"
   },
   {
     "district_id": 10101061017,
@@ -4211,7 +4211,7 @@
     "city_id": 1061,
     "region_id": 1,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 10101061024,
@@ -4309,7 +4309,7 @@
     "city_id": 1061,
     "region_id": 1,
     "name_ar": "حي السحاب",
-    "name_en": "As Sahab"
+    "name_en": "Sahab"
   },
   {
     "district_id": 10101061038,
@@ -4330,7 +4330,7 @@
     "city_id": 1061,
     "region_id": 1,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10101061041,
@@ -4365,14 +4365,14 @@
     "city_id": 1073,
     "region_id": 1,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10101073003,
     "city_id": 1073,
     "region_id": 1,
     "name_ar": "حي السليمانية",
-    "name_en": "As Sulaymaniyah"
+    "name_en": "Sulaymaniyah"
   },
   {
     "district_id": 10101073004,
@@ -4386,14 +4386,14 @@
     "city_id": 1073,
     "region_id": 1,
     "name_ar": "حي السعيدان",
-    "name_en": "As Saydan"
+    "name_en": "Saydan"
   },
   {
     "district_id": 10101073006,
     "city_id": 1073,
     "region_id": 1,
     "name_ar": "حي السماري",
-    "name_en": "As Samari"
+    "name_en": "Samari"
   },
   {
     "district_id": 10101073007,
@@ -4421,7 +4421,7 @@
     "city_id": 1073,
     "region_id": 1,
     "name_ar": "حي الديرة",
-    "name_en": "Ad Dirah"
+    "name_en": "Dirah"
   },
   {
     "district_id": 10101073011,
@@ -4617,7 +4617,7 @@
     "city_id": 1351,
     "region_id": 1,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10101351026,
@@ -4701,21 +4701,21 @@
     "city_id": 1361,
     "region_id": 1,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10101361003,
     "city_id": 1361,
     "region_id": 1,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10101361004,
     "city_id": 1361,
     "region_id": 1,
     "name_ar": "حي الديرة",
-    "name_en": "Ad Dirah"
+    "name_en": "Dirah"
   },
   {
     "district_id": 10101361005,
@@ -4743,7 +4743,7 @@
     "city_id": 3158,
     "region_id": 1,
     "name_ar": "حي الركية",
-    "name_en": "Ar Rukiyah"
+    "name_en": "Rukiyah"
   },
   {
     "district_id": 10103158003,
@@ -4771,7 +4771,7 @@
     "city_id": 3158,
     "region_id": 1,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10103161001,
@@ -4806,7 +4806,7 @@
     "city_id": 3161,
     "region_id": 1,
     "name_ar": "حي الشعيب",
-    "name_en": "Ash Shuaib"
+    "name_en": "Shuaib"
   },
   {
     "district_id": 10103161006,
@@ -4869,7 +4869,7 @@
     "city_id": 3161,
     "region_id": 1,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10103161015,
@@ -4904,21 +4904,21 @@
     "city_id": 3174,
     "region_id": 1,
     "name_ar": "حي السحاب",
-    "name_en": "As Sahab"
+    "name_en": "Sahab"
   },
   {
     "district_id": 10103174003,
     "city_id": 3174,
     "region_id": 1,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10103174004,
     "city_id": 3174,
     "region_id": 1,
     "name_ar": "حي الدوائر",
-    "name_en": "Ad Dawair"
+    "name_en": "Dawair"
   },
   {
     "district_id": 10103174005,
@@ -4960,7 +4960,7 @@
     "city_id": 3174,
     "region_id": 1,
     "name_ar": "حي السعودية",
-    "name_en": "As Saudia"
+    "name_en": "Saudia"
   },
   {
     "district_id": 10103174011,
@@ -5002,7 +5002,7 @@
     "city_id": 5,
     "region_id": 2,
     "name_ar": "حي السيل الكبير",
-    "name_en": "As Sail Al Kabeer"
+    "name_en": "Sail Al Kabeer"
   },
   {
     "district_id": 10200005005,
@@ -5016,7 +5016,7 @@
     "city_id": 5,
     "region_id": 2,
     "name_ar": "حي الشفا",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10200005007,
@@ -5156,7 +5156,7 @@
     "city_id": 5,
     "region_id": 2,
     "name_ar": "حي السلامة",
-    "name_en": "As Salamah"
+    "name_en": "Salamah"
   },
   {
     "district_id": 10200005027,
@@ -5254,7 +5254,7 @@
     "city_id": 5,
     "region_id": 2,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10200005041,
@@ -5268,7 +5268,7 @@
     "city_id": 5,
     "region_id": 2,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10200005043,
@@ -5401,7 +5401,7 @@
     "city_id": 5,
     "region_id": 2,
     "name_ar": "حي السرور",
-    "name_en": "As Sarur"
+    "name_en": "Sarur"
   },
   {
     "district_id": 10200005062,
@@ -5422,7 +5422,7 @@
     "city_id": 5,
     "region_id": 2,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 10200005065,
@@ -5597,7 +5597,7 @@
     "city_id": 5,
     "region_id": 2,
     "name_ar": "حي السداد",
-    "name_en": "As Sadad"
+    "name_en": "Sadad"
   },
   {
     "district_id": 10200005090,
@@ -5632,7 +5632,7 @@
     "city_id": 5,
     "region_id": 2,
     "name_ar": "حي الردف",
-    "name_en": "Ar Ruddaf"
+    "name_en": "Ruddaf"
   },
   {
     "district_id": 10200005095,
@@ -5814,7 +5814,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10200006003,
@@ -5835,7 +5835,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي السليمانية",
-    "name_en": "As Sulimaniyah"
+    "name_en": "Sulimaniyah"
   },
   {
     "district_id": 10200006006,
@@ -5863,7 +5863,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي الرصيفة",
-    "name_en": "Ar Rusayfah"
+    "name_en": "Rusayfah"
   },
   {
     "district_id": 10200006010,
@@ -5891,7 +5891,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي التقوى",
-    "name_en": "At Taqwa"
+    "name_en": "Taqwa"
   },
   {
     "district_id": 10200006014,
@@ -5926,7 +5926,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي التيسير",
-    "name_en": "At Taysir"
+    "name_en": "Taysir"
   },
   {
     "district_id": 10200006019,
@@ -5982,7 +5982,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي الضيافة",
-    "name_en": "Ad Diyafah"
+    "name_en": "Diyafah"
   },
   {
     "district_id": 10200006027,
@@ -6003,14 +6003,14 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي الطندباوي",
-    "name_en": "At Tandabawi"
+    "name_en": "Tandabawi"
   },
   {
     "district_id": 10200006030,
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي الشبيكة",
-    "name_en": "Ash Shubaikah"
+    "name_en": "Shubaikah"
   },
   {
     "district_id": 10200006031,
@@ -6038,7 +6038,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي الشوقية",
-    "name_en": "Ash Shawqiyah"
+    "name_en": "Shawqiyah"
   },
   {
     "district_id": 10200006035,
@@ -6080,7 +6080,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي الراشدية",
-    "name_en": "Ar Rashidiyah"
+    "name_en": "Rashidiyah"
   },
   {
     "district_id": 10200006041,
@@ -6129,7 +6129,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي التنعيم",
-    "name_en": "At Tanim"
+    "name_en": "Tanim"
   },
   {
     "district_id": 10200006048,
@@ -6178,7 +6178,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10200006055,
@@ -6192,7 +6192,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي السلامة",
-    "name_en": "As Salamah"
+    "name_en": "Salamah"
   },
   {
     "district_id": 10200006057,
@@ -6213,7 +6213,7 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي الشهداء",
-    "name_en": "Ash Shuhada"
+    "name_en": "Shuhada"
   },
   {
     "district_id": 10200006060,
@@ -6255,21 +6255,21 @@
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي التروية",
-    "name_en": "At Tarwiyah"
+    "name_en": "Tarwiyah"
   },
   {
     "district_id": 10200006066,
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي الشرائع",
-    "name_en": "Ash Sharia"
+    "name_en": "Sharia"
   },
   {
     "district_id": 10200006067,
     "city_id": 6,
     "region_id": 2,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10200006068,
@@ -6304,7 +6304,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الصوارى",
-    "name_en": "As Swaryee"
+    "name_en": "Swaryee"
   },
   {
     "district_id": 10200018005,
@@ -6318,7 +6318,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الشراع",
-    "name_en": "Ash Sheraa"
+    "name_en": "Sheraa"
   },
   {
     "district_id": 10200018007,
@@ -6353,7 +6353,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الشروق",
-    "name_en": "Ash Shrouk"
+    "name_en": "Shrouk"
   },
   {
     "district_id": 10200018012,
@@ -6367,7 +6367,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الرياض",
-    "name_en": "Ar Riyadh"
+    "name_en": "Riyadh"
   },
   {
     "district_id": 10200018014,
@@ -6381,14 +6381,14 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الرحمانية",
-    "name_en": "Ar Rahmaniyah"
+    "name_en": "Rahmaniyah"
   },
   {
     "district_id": 10200018016,
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10200018017,
@@ -6402,7 +6402,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayaan"
+    "name_en": "Rayaan"
   },
   {
     "district_id": 10200018019,
@@ -6521,7 +6521,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي السلامة",
-    "name_en": "As Salamah"
+    "name_en": "Salamah"
   },
   {
     "district_id": 10200018036,
@@ -6535,7 +6535,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الشرفية",
-    "name_en": "Ash Sharafiyah"
+    "name_en": "Sharafiyah"
   },
   {
     "district_id": 10200018038,
@@ -6549,14 +6549,14 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الشفا",
-    "name_en": "Ash Shefaa"
+    "name_en": "Shefaa"
   },
   {
     "district_id": 10200018040,
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي السنابل",
-    "name_en": "As Sanabel"
+    "name_en": "Sanabel"
   },
   {
     "district_id": 10200018041,
@@ -6584,7 +6584,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الرحمة",
-    "name_en": "Ar Rahmah"
+    "name_en": "Rahmah"
   },
   {
     "district_id": 10200018045,
@@ -6633,14 +6633,14 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي التعاون",
-    "name_en": "At Taawun"
+    "name_en": "Taawun"
   },
   {
     "district_id": 10200018052,
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي السروات",
-    "name_en": "As Sarawat"
+    "name_en": "Sarawat"
   },
   {
     "district_id": 10200018053,
@@ -6654,7 +6654,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الضاحية",
-    "name_en": "Ad Dahiah"
+    "name_en": "Dahiah"
   },
   {
     "district_id": 10200018055,
@@ -6710,21 +6710,21 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الصحيفة",
-    "name_en": "As Sahifah"
+    "name_en": "Sahifah"
   },
   {
     "district_id": 10200018063,
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي السبيل",
-    "name_en": "As Sabil"
+    "name_en": "Sabil"
   },
   {
     "district_id": 10200018064,
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10200018065,
@@ -6787,14 +6787,14 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي السليمانية",
-    "name_en": "As Sulaymaniyah"
+    "name_en": "Sulaymaniyah"
   },
   {
     "district_id": 10200018074,
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الساحل",
-    "name_en": "As Sahil"
+    "name_en": "Sahil"
   },
   {
     "district_id": 10200018075,
@@ -6843,7 +6843,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10200018082,
@@ -6857,7 +6857,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 10200018084,
@@ -6871,7 +6871,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي السامر",
-    "name_en": "As Samir"
+    "name_en": "Samir"
   },
   {
     "district_id": 10200018086,
@@ -6948,7 +6948,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10200018097,
@@ -6983,7 +6983,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الرويس",
-    "name_en": "Ar Ruwais"
+    "name_en": "Ruwais"
   },
   {
     "district_id": 10200018103,
@@ -7018,7 +7018,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي السرورية",
-    "name_en": "As Sororyah"
+    "name_en": "Sororyah"
   },
   {
     "district_id": 10200018108,
@@ -7032,7 +7032,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الشاطئ",
-    "name_en": "Ash Shati"
+    "name_en": "Shati"
   },
   {
     "district_id": 10200018110,
@@ -7123,7 +7123,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الدرة",
-    "name_en": "Ad Durrah"
+    "name_en": "Durrah"
   },
   {
     "district_id": 10200018123,
@@ -7137,7 +7137,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10200018125,
@@ -7242,7 +7242,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الرمال",
-    "name_en": "Ar Rimal"
+    "name_en": "Rimal"
   },
   {
     "district_id": 10200018140,
@@ -7473,7 +7473,7 @@
     "city_id": 377,
     "region_id": 2,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10200377003,
@@ -7487,14 +7487,14 @@
     "city_id": 377,
     "region_id": 2,
     "name_ar": "حي الصليب الشرقي",
-    "name_en": "As Silayyib Ash Sharqi"
+    "name_en": "Silayyib Ash Sharqi"
   },
   {
     "district_id": 10200377006,
     "city_id": 377,
     "region_id": 2,
     "name_ar": "حي الصليب الغربي",
-    "name_en": "As Silayyib Al Gharbi"
+    "name_en": "Silayyib Al Gharbi"
   },
   {
     "district_id": 10200377007,
@@ -7515,7 +7515,7 @@
     "city_id": 377,
     "region_id": 2,
     "name_ar": "حي الصبوح",
-    "name_en": "As Sabuh"
+    "name_en": "Sabuh"
   },
   {
     "district_id": 10200377010,
@@ -7529,14 +7529,14 @@
     "city_id": 377,
     "region_id": 2,
     "name_ar": "حي السوق",
-    "name_en": "As Suq"
+    "name_en": "Suq"
   },
   {
     "district_id": 10200377012,
     "city_id": 377,
     "region_id": 2,
     "name_ar": "حي الصمد",
-    "name_en": "As Samad"
+    "name_en": "Samad"
   },
   {
     "district_id": 10200377013,
@@ -7578,14 +7578,14 @@
     "city_id": 1105,
     "region_id": 2,
     "name_ar": "حي الدف",
-    "name_en": "Ad Duf"
+    "name_en": "Duf"
   },
   {
     "district_id": 10201105006,
     "city_id": 1105,
     "region_id": 2,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10201105007,
@@ -7606,21 +7606,21 @@
     "city_id": 1105,
     "region_id": 2,
     "name_ar": "حي الطلعة",
-    "name_en": "At Talaah"
+    "name_en": "Talaah"
   },
   {
     "district_id": 10201105010,
     "city_id": 1105,
     "region_id": 2,
     "name_ar": "حي الشيوخ",
-    "name_en": "Ash Shiyukh"
+    "name_en": "Shiyukh"
   },
   {
     "district_id": 10201105011,
     "city_id": 1105,
     "region_id": 2,
     "name_ar": "الصدر",
-    "name_en": "As Sadr"
+    "name_en": "Sadr"
   },
   {
     "district_id": 10201105012,
@@ -7641,7 +7641,7 @@
     "city_id": 1105,
     "region_id": 2,
     "name_ar": "حي الروايضة",
-    "name_en": "Ar Ruwaydah"
+    "name_en": "Ruwaydah"
   },
   {
     "district_id": 10201105015,
@@ -7669,7 +7669,7 @@
     "city_id": 1248,
     "region_id": 2,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10201248004,
@@ -7711,7 +7711,7 @@
     "city_id": 1248,
     "region_id": 2,
     "name_ar": "حي السوق القديم",
-    "name_en": "As Suq Al Qadim"
+    "name_en": "Suq Al Qadim"
   },
   {
     "district_id": 10201248010,
@@ -7732,7 +7732,7 @@
     "city_id": 1248,
     "region_id": 2,
     "name_ar": "حي الدغمية",
-    "name_en": "Ad Daghmiyah"
+    "name_en": "Daghmiyah"
   },
   {
     "district_id": 10201257001,
@@ -7767,7 +7767,7 @@
     "city_id": 1257,
     "region_id": 2,
     "name_ar": "حي السلامة",
-    "name_en": "As Salamah"
+    "name_en": "Salamah"
   },
   {
     "district_id": 10201257006,
@@ -7830,7 +7830,7 @@
     "city_id": 1257,
     "region_id": 2,
     "name_ar": "حي الشهداء",
-    "name_en": "Ash Shuhada"
+    "name_en": "Shuhada"
   },
   {
     "district_id": 10201390001,
@@ -7914,7 +7914,7 @@
     "city_id": 1625,
     "region_id": 2,
     "name_ar": "حي الشرقية",
-    "name_en": "Ash Sharqiyyah"
+    "name_en": "Sharqiyyah"
   },
   {
     "district_id": 10201625002,
@@ -7949,14 +7949,14 @@
     "city_id": 1625,
     "region_id": 2,
     "name_ar": "حي الرتبة",
-    "name_en": "Ar Ratibah"
+    "name_en": "Ratibah"
   },
   {
     "district_id": 10201625007,
     "city_id": 1625,
     "region_id": 2,
     "name_ar": "حي الشامية",
-    "name_en": "Ash Shamiyah"
+    "name_en": "Shamiyah"
   },
   {
     "district_id": 10201628001,
@@ -7984,7 +7984,7 @@
     "city_id": 2156,
     "region_id": 2,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10202156002,
@@ -8026,7 +8026,7 @@
     "city_id": 2156,
     "region_id": 2,
     "name_ar": "حي السوق",
-    "name_en": "As Suq"
+    "name_en": "Suq"
   },
   {
     "district_id": 10202800001,
@@ -8138,7 +8138,7 @@
     "city_id": 2800,
     "region_id": 2,
     "name_ar": "حي السوق القديم",
-    "name_en": "As Suq Al Qadim"
+    "name_en": "Suq Al Qadim"
   },
   {
     "district_id": 10202800017,
@@ -8166,7 +8166,7 @@
     "city_id": 2800,
     "region_id": 2,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10202800021,
@@ -8229,7 +8229,7 @@
     "city_id": 3666,
     "region_id": 2,
     "name_ar": "حي التلال",
-    "name_en": "At Talal"
+    "name_en": "Talal"
   },
   {
     "district_id": 10203666009,
@@ -8425,7 +8425,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي السكب",
-    "name_en": "As Sakb"
+    "name_en": "Sakb"
   },
   {
     "district_id": 10300014003,
@@ -8460,14 +8460,14 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الشهباء",
-    "name_en": "Ash Shahba"
+    "name_en": "Shahba"
   },
   {
     "district_id": 10300014008,
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الرمانة",
-    "name_en": "Ar Rumanah"
+    "name_en": "Rumanah"
   },
   {
     "district_id": 10300014009,
@@ -8488,7 +8488,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي السد",
-    "name_en": "As Sad"
+    "name_en": "Sad"
   },
   {
     "district_id": 10300014012,
@@ -8502,7 +8502,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الرانوناء",
-    "name_en": "Ar Ranuna"
+    "name_en": "Ranuna"
   },
   {
     "district_id": 10300014014,
@@ -8523,7 +8523,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10300014017,
@@ -8579,7 +8579,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الدويمة",
-    "name_en": "Ad Duwaimah"
+    "name_en": "Duwaimah"
   },
   {
     "district_id": 10300014025,
@@ -8614,7 +8614,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الشريبات",
-    "name_en": "Ash Shuraybat"
+    "name_en": "Shuraybat"
   },
   {
     "district_id": 10300014030,
@@ -8649,7 +8649,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الدفاع",
-    "name_en": "Ad Difa"
+    "name_en": "Difa"
   },
   {
     "district_id": 10300014035,
@@ -8740,7 +8740,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي السيح",
-    "name_en": "As Sih"
+    "name_en": "Sih"
   },
   {
     "district_id": 10300014048,
@@ -8761,7 +8761,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10300014052,
@@ -8838,7 +8838,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الدار",
-    "name_en": "Ad Dar"
+    "name_en": "Dar"
   },
   {
     "district_id": 10300014064,
@@ -8880,7 +8880,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الصادقية",
-    "name_en": "As Sadiqiyah"
+    "name_en": "Sadiqiyah"
   },
   {
     "district_id": 10300014070,
@@ -8929,7 +8929,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الراية",
-    "name_en": "Ar Rayah"
+    "name_en": "Rayah"
   },
   {
     "district_id": 10300014078,
@@ -8943,7 +8943,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي السقيا",
-    "name_en": "As Suqya"
+    "name_en": "Suqya"
   },
   {
     "district_id": 10300014082,
@@ -8957,14 +8957,14 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الشافية",
-    "name_en": "Ash Shafiyah"
+    "name_en": "Shafiyah"
   },
   {
     "district_id": 10300014084,
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الشهداء",
-    "name_en": "Ash Shuhada"
+    "name_en": "Shuhada"
   },
   {
     "district_id": 10300014085,
@@ -9020,7 +9020,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الدويخلة",
-    "name_en": "Ad Duwaikhilah"
+    "name_en": "Duwaikhilah"
   },
   {
     "district_id": 10300014094,
@@ -9209,7 +9209,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الصويدرة",
-    "name_en": "As Suwaydra"
+    "name_en": "Suwaydra"
   },
   {
     "district_id": 10300014121,
@@ -9251,7 +9251,7 @@
     "city_id": 199,
     "region_id": 3,
     "name_ar": "حي الصخيرات",
-    "name_en": "As Sukhayrat"
+    "name_en": "Sukhayrat"
   },
   {
     "district_id": 10300199003,
@@ -9272,7 +9272,7 @@
     "city_id": 199,
     "region_id": 3,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10300199006,
@@ -9314,7 +9314,7 @@
     "city_id": 288,
     "region_id": 3,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10300288004,
@@ -9377,7 +9377,7 @@
     "city_id": 360,
     "region_id": 3,
     "name_ar": "حي الرياض",
-    "name_en": "Ar Riyadh"
+    "name_en": "Riyadh"
   },
   {
     "district_id": 10300360007,
@@ -9391,7 +9391,7 @@
     "city_id": 360,
     "region_id": 3,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 10300360009,
@@ -9412,7 +9412,7 @@
     "city_id": 360,
     "region_id": 3,
     "name_ar": "حي الشفا",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10300360012,
@@ -9426,7 +9426,7 @@
     "city_id": 360,
     "region_id": 3,
     "name_ar": "حي الشروق",
-    "name_en": "Ash Shuruq"
+    "name_en": "Shuruq"
   },
   {
     "district_id": 10300360014,
@@ -9440,21 +9440,21 @@
     "city_id": 360,
     "region_id": 3,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10300360016,
     "city_id": 360,
     "region_id": 3,
     "name_ar": "حي الروابى",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10300360017,
     "city_id": 360,
     "region_id": 3,
     "name_ar": "حي السامر",
-    "name_en": "As Samir"
+    "name_en": "Samir"
   },
   {
     "district_id": 10300360018,
@@ -9692,7 +9692,7 @@
     "city_id": 483,
     "region_id": 3,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10300483031,
@@ -9727,7 +9727,7 @@
     "city_id": 483,
     "region_id": 3,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10300483036,
@@ -9993,7 +9993,7 @@
     "city_id": 1053,
     "region_id": 3,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10301053002,
@@ -10035,7 +10035,7 @@
     "city_id": 1053,
     "region_id": 3,
     "name_ar": "حي الشهداء",
-    "name_en": "Ash Shuhada"
+    "name_en": "Shuhada"
   },
   {
     "district_id": 10309605001,
@@ -10252,7 +10252,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الرمال",
-    "name_en": "Ar Rimal"
+    "name_en": "Rimal"
   },
   {
     "district_id": 10400011003,
@@ -10315,7 +10315,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي السالمية",
-    "name_en": "As Salmiya"
+    "name_en": "Salmiya"
   },
   {
     "district_id": 10400011012,
@@ -10336,7 +10336,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الصباخ",
-    "name_en": "As Sabbakh"
+    "name_en": "Sabbakh"
   },
   {
     "district_id": 10400011015,
@@ -10357,7 +10357,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10400011018,
@@ -10378,7 +10378,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الضاحي",
-    "name_en": "Ad Dahi"
+    "name_en": "Dahi"
   },
   {
     "district_id": 10400011021,
@@ -10392,7 +10392,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي السادة",
-    "name_en": "As Sadah"
+    "name_en": "Sadah"
   },
   {
     "district_id": 10400011023,
@@ -10441,7 +10441,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي التعليم",
-    "name_en": "At Taalim"
+    "name_en": "Taalim"
   },
   {
     "district_id": 10400011030,
@@ -10455,7 +10455,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10400011032,
@@ -10483,7 +10483,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الشماس",
-    "name_en": "Ash Shammas"
+    "name_en": "Shammas"
   },
   {
     "district_id": 10400011036,
@@ -10497,7 +10497,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 10400011038,
@@ -10518,14 +10518,14 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10400011041,
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الرفيعة",
-    "name_en": "Ar Rafiah"
+    "name_en": "Rafiah"
   },
   {
     "district_id": 10400011042,
@@ -10546,7 +10546,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الشفق",
-    "name_en": "Ash Shafaq"
+    "name_en": "Shafaq"
   },
   {
     "district_id": 10400011045,
@@ -10574,7 +10574,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10400011049,
@@ -10588,7 +10588,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الصفراء",
-    "name_en": "As Safra"
+    "name_en": "Safra"
   },
   {
     "district_id": 10400011051,
@@ -10616,7 +10616,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الروضه",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10400011055,
@@ -10644,21 +10644,21 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الشقة",
-    "name_en": "Ash Shiqah"
+    "name_en": "Shiqah"
   },
   {
     "district_id": 10400011059,
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الرابية",
-    "name_en": "Ar Rabiyah"
+    "name_en": "Rabiyah"
   },
   {
     "district_id": 10400011060,
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 10400011061,
@@ -10721,7 +10721,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي التشليح",
-    "name_en": "At Tashlih"
+    "name_en": "Tashlih"
   },
   {
     "district_id": 10400080001,
@@ -10742,14 +10742,14 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10400080004,
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الدوحة",
-    "name_en": "Ad Dawhah"
+    "name_en": "Dawhah"
   },
   {
     "district_id": 10400080005,
@@ -10763,7 +10763,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الرمال",
-    "name_en": "Ar Rimal"
+    "name_en": "Rimal"
   },
   {
     "district_id": 10400080007,
@@ -10777,7 +10777,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 10400080009,
@@ -10798,7 +10798,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الرياضى",
-    "name_en": "Ar Riyadi"
+    "name_en": "Riyadi"
   },
   {
     "district_id": 10400080012,
@@ -10833,7 +10833,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10400080017,
@@ -10847,7 +10847,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي السليمانية",
-    "name_en": "As Sulimaniyah"
+    "name_en": "Sulimaniyah"
   },
   {
     "district_id": 10400080019,
@@ -10896,7 +10896,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10400080026,
@@ -10924,7 +10924,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الرحمانية",
-    "name_en": "Ar Rahmaniyah"
+    "name_en": "Rahmaniyah"
   },
   {
     "district_id": 10400080030,
@@ -10994,7 +10994,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayan"
+    "name_en": "Rayan"
   },
   {
     "district_id": 10400080040,
@@ -11015,7 +11015,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي السحيمية",
-    "name_en": "As Suhaymiyyah"
+    "name_en": "Suhaymiyyah"
   },
   {
     "district_id": 10400080043,
@@ -11029,7 +11029,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10400080045,
@@ -11113,7 +11113,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الروغاني",
-    "name_en": "Ar Rawghani"
+    "name_en": "Rawghani"
   },
   {
     "district_id": 10400080058,
@@ -11127,7 +11127,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الصفراء",
-    "name_en": "As Safraa"
+    "name_en": "Safraa"
   },
   {
     "district_id": 10400080060,
@@ -11162,7 +11162,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي التحلية",
-    "name_en": "At Tahliyah"
+    "name_en": "Tahliyah"
   },
   {
     "district_id": 10400080065,
@@ -11239,7 +11239,7 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "حي الشعيب",
-    "name_en": "Ash Shuaib"
+    "name_en": "Shuaib"
   },
   {
     "district_id": 10400080076,
@@ -11435,14 +11435,14 @@
     "city_id": 955,
     "region_id": 4,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10401986001,
     "city_id": 1986,
     "region_id": 4,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10401986002,
@@ -11484,7 +11484,7 @@
     "city_id": 1999,
     "region_id": 4,
     "name_ar": "حي التعليم",
-    "name_en": "At Talim"
+    "name_en": "Talim"
   },
   {
     "district_id": 10401999004,
@@ -11526,7 +11526,7 @@
     "city_id": 2421,
     "region_id": 4,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10402421003,
@@ -11547,7 +11547,7 @@
     "city_id": 2421,
     "region_id": 4,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10402421006,
@@ -11568,14 +11568,14 @@
     "city_id": 2421,
     "region_id": 4,
     "name_ar": "حي التعليم",
-    "name_en": "At Talim"
+    "name_en": "Talim"
   },
   {
     "district_id": 10402421009,
     "city_id": 2421,
     "region_id": 4,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10402421010,
@@ -11589,7 +11589,7 @@
     "city_id": 2421,
     "region_id": 4,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10402421012,
@@ -11638,7 +11638,7 @@
     "city_id": 2421,
     "region_id": 4,
     "name_ar": "حي السعادة",
-    "name_en": "As Saadah"
+    "name_en": "Saadah"
   },
   {
     "district_id": 10402421019,
@@ -11673,7 +11673,7 @@
     "city_id": 2421,
     "region_id": 4,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10402421024,
@@ -11687,14 +11687,14 @@
     "city_id": 2421,
     "region_id": 4,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10402421026,
     "city_id": 2421,
     "region_id": 4,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10402421027,
@@ -11743,7 +11743,7 @@
     "city_id": 2421,
     "region_id": 4,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 10402421034,
@@ -11834,7 +11834,7 @@
     "city_id": 2448,
     "region_id": 4,
     "name_ar": "حي الصفراء",
-    "name_en": "As Safra"
+    "name_en": "Safra"
   },
   {
     "district_id": 10402448005,
@@ -11869,7 +11869,7 @@
     "city_id": 2448,
     "region_id": 4,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10402448010,
@@ -11883,7 +11883,7 @@
     "city_id": 2448,
     "region_id": 4,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10402448012,
@@ -11897,7 +11897,7 @@
     "city_id": 2448,
     "region_id": 4,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10402448014,
@@ -11925,7 +11925,7 @@
     "city_id": 2448,
     "region_id": 4,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10402467005,
@@ -11960,7 +11960,7 @@
     "city_id": 2467,
     "region_id": 4,
     "name_ar": "حي التعاون",
-    "name_en": "At Taawun"
+    "name_en": "Taawun"
   },
   {
     "district_id": 10402467010,
@@ -12030,7 +12030,7 @@
     "city_id": 2481,
     "region_id": 4,
     "name_ar": "حي الشيرمي",
-    "name_en": "Ash Shayrami"
+    "name_en": "Shayrami"
   },
   {
     "district_id": 10402481006,
@@ -12065,14 +12065,14 @@
     "city_id": 2481,
     "region_id": 4,
     "name_ar": "حي الرمة",
-    "name_en": "Ar Rimmah"
+    "name_en": "Rimmah"
   },
   {
     "district_id": 10402481011,
     "city_id": 2481,
     "region_id": 4,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10402481012,
@@ -12100,14 +12100,14 @@
     "city_id": 2481,
     "region_id": 4,
     "name_ar": "حي التعليم",
-    "name_en": "At Taalim"
+    "name_en": "Taalim"
   },
   {
     "district_id": 10402481016,
     "city_id": 2481,
     "region_id": 4,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10402481017,
@@ -12121,14 +12121,14 @@
     "city_id": 2481,
     "region_id": 4,
     "name_ar": "حي الدحلة",
-    "name_en": "Ad Dahlah"
+    "name_en": "Dahlah"
   },
   {
     "district_id": 10402486001,
     "city_id": 2486,
     "region_id": 4,
     "name_ar": "حي السحابين الشمالي",
-    "name_en": "As Sahabin Ash Shamali"
+    "name_en": "Sahabin Ash Shamali"
   },
   {
     "district_id": 10402486002,
@@ -12170,14 +12170,14 @@
     "city_id": 2486,
     "region_id": 4,
     "name_ar": "حي السحابين الجنوبي",
-    "name_en": "As Sahabin Al Janubi"
+    "name_en": "Sahabin Al Janubi"
   },
   {
     "district_id": 10402486008,
     "city_id": 2486,
     "region_id": 4,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10402486009,
@@ -12198,35 +12198,35 @@
     "city_id": 2486,
     "region_id": 4,
     "name_ar": "حى الرفيعة",
-    "name_en": "Ar Rafiah"
+    "name_en": "Rafiah"
   },
   {
     "district_id": 10402486012,
     "city_id": 2486,
     "region_id": 4,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayan"
+    "name_en": "Rayan"
   },
   {
     "district_id": 10402486013,
     "city_id": 2486,
     "region_id": 4,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10402486014,
     "city_id": 2486,
     "region_id": 4,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10402486015,
     "city_id": 2486,
     "region_id": 4,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10402629001,
@@ -12240,7 +12240,7 @@
     "city_id": 2629,
     "region_id": 4,
     "name_ar": "حي السلاح",
-    "name_en": "As Silah"
+    "name_en": "Silah"
   },
   {
     "district_id": 10402630002,
@@ -12324,14 +12324,14 @@
     "city_id": 2630,
     "region_id": 4,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10402630014,
     "city_id": 2630,
     "region_id": 4,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 10402630015,
@@ -12345,7 +12345,7 @@
     "city_id": 2630,
     "region_id": 4,
     "name_ar": "حي الرياض",
-    "name_en": "Ar Riyadh"
+    "name_en": "Riyadh"
   },
   {
     "district_id": 10402630017,
@@ -12366,7 +12366,7 @@
     "city_id": 2630,
     "region_id": 4,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10402630020,
@@ -12380,7 +12380,7 @@
     "city_id": 2630,
     "region_id": 4,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10402630022,
@@ -12422,7 +12422,7 @@
     "city_id": 2777,
     "region_id": 4,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10402777005,
@@ -12492,7 +12492,7 @@
     "city_id": 2777,
     "region_id": 4,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10402777016,
@@ -12513,7 +12513,7 @@
     "city_id": 2777,
     "region_id": 4,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10402777019,
@@ -12555,7 +12555,7 @@
     "city_id": 2988,
     "region_id": 4,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10402988006,
@@ -12583,7 +12583,7 @@
     "city_id": 2988,
     "region_id": 4,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10402988010,
@@ -12618,14 +12618,14 @@
     "city_id": 2988,
     "region_id": 4,
     "name_ar": "حي السعادة",
-    "name_en": "As Saadah"
+    "name_en": "Saadah"
   },
   {
     "district_id": 10402988015,
     "city_id": 2988,
     "region_id": 4,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10402988016,
@@ -12646,14 +12646,14 @@
     "city_id": 2988,
     "region_id": 4,
     "name_ar": "حي التعاون",
-    "name_en": "At Taawun"
+    "name_en": "Taawun"
   },
   {
     "district_id": 10402988019,
     "city_id": 2988,
     "region_id": 4,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10402988020,
@@ -12667,7 +12667,7 @@
     "city_id": 2988,
     "region_id": 4,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayan"
+    "name_en": "Rayan"
   },
   {
     "district_id": 10402988022,
@@ -12709,14 +12709,14 @@
     "city_id": 3151,
     "region_id": 4,
     "name_ar": "حي الرابية",
-    "name_en": "Ar Rabiyah"
+    "name_en": "Rabiyah"
   },
   {
     "district_id": 10403151002,
     "city_id": 3151,
     "region_id": 4,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10403151003,
@@ -12730,7 +12730,7 @@
     "city_id": 3151,
     "region_id": 4,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10403151005,
@@ -12779,14 +12779,14 @@
     "city_id": 3151,
     "region_id": 4,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayan"
+    "name_en": "Rayan"
   },
   {
     "district_id": 10403151012,
     "city_id": 3151,
     "region_id": 4,
     "name_ar": "حي الرمثية",
-    "name_en": "Ar Ramthyah"
+    "name_en": "Ramthyah"
   },
   {
     "district_id": 10403151013,
@@ -12800,7 +12800,7 @@
     "city_id": 3151,
     "region_id": 4,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 10403151015,
@@ -12912,7 +12912,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الصقور",
-    "name_en": "As Suqur"
+    "name_en": "Suqur"
   },
   {
     "district_id": 10500012009,
@@ -12989,7 +12989,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الرابية",
-    "name_en": "Ar Rabiyah"
+    "name_en": "Rabiyah"
   },
   {
     "district_id": 10500012020,
@@ -13010,7 +13010,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10500012023,
@@ -13024,7 +13024,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الصحافة",
-    "name_en": "As Sahafah"
+    "name_en": "Sahafah"
   },
   {
     "district_id": 10500012026,
@@ -13059,7 +13059,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي السنيدية",
-    "name_en": "As Sunaidah"
+    "name_en": "Sunaidah"
   },
   {
     "district_id": 10500012031,
@@ -13101,21 +13101,21 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الربوه",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10500012037,
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الرويضة",
-    "name_en": "Ar Ruwaida"
+    "name_en": "Ruwaida"
   },
   {
     "district_id": 10500012038,
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الرفيعة",
-    "name_en": "Ar Rafiah"
+    "name_en": "Rafiah"
   },
   {
     "district_id": 10500012039,
@@ -13129,7 +13129,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الرقيقة",
-    "name_en": "Ar Ruqaiqah"
+    "name_en": "Ruqaiqah"
   },
   {
     "district_id": 10500012041,
@@ -13164,7 +13164,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي السليمانية",
-    "name_en": "As Sulaimaniyah"
+    "name_en": "Sulaimaniyah"
   },
   {
     "district_id": 10500012046,
@@ -13178,7 +13178,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الشهابية",
-    "name_en": "Ash Shihabiyah"
+    "name_en": "Shihabiyah"
   },
   {
     "district_id": 10500012048,
@@ -13269,7 +13269,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 10500012061,
@@ -13318,7 +13318,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي صويدرة",
-    "name_en": "As Suwaidirah"
+    "name_en": "Suwaidirah"
   },
   {
     "district_id": 10500012068,
@@ -13409,7 +13409,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي التعاون",
-    "name_en": "At Taawun"
+    "name_en": "Taawun"
   },
   {
     "district_id": 10500012081,
@@ -13430,7 +13430,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي السيفة",
-    "name_en": "As Saifa"
+    "name_en": "Saifa"
   },
   {
     "district_id": 10500012084,
@@ -13451,7 +13451,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10500012087,
@@ -13479,7 +13479,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الرفعة الجنوبية",
-    "name_en": "Ar Refah Southern"
+    "name_en": "Refah Southern"
   },
   {
     "district_id": 10500012091,
@@ -13542,7 +13542,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الرفعة الشمالية",
-    "name_en": "Ar Refah Northern"
+    "name_en": "Refah Northern"
   },
   {
     "district_id": 10500012100,
@@ -13626,7 +13626,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الدواسر",
-    "name_en": "Ad Dawasir"
+    "name_en": "Dawasir"
   },
   {
     "district_id": 10500013011,
@@ -13640,14 +13640,14 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الشاطئ الغربي",
-    "name_en": "Ash Shati Al Gharbi"
+    "name_en": "Shati Al Gharbi"
   },
   {
     "district_id": 10500013013,
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الضباب",
-    "name_en": "Ad Dabab"
+    "name_en": "Dabab"
   },
   {
     "district_id": 10500013014,
@@ -13668,7 +13668,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10500013017,
@@ -13703,14 +13703,14 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي السيف",
-    "name_en": "As Saif"
+    "name_en": "Saif"
   },
   {
     "district_id": 10500013022,
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10500013023,
@@ -13738,7 +13738,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10500013027,
@@ -13759,7 +13759,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 10500013030,
@@ -13794,7 +13794,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الطبيشي",
-    "name_en": "At Tubayshi"
+    "name_en": "Tubayshi"
   },
   {
     "district_id": 10500013035,
@@ -13808,7 +13808,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 10500013037,
@@ -13885,7 +13885,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الشاطئ الشرقي",
-    "name_en": "Ash Shati Ash Sharqi"
+    "name_en": "Shati Ash Sharqi"
   },
   {
     "district_id": 10500013048,
@@ -13899,14 +13899,14 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10500013050,
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الراكة الشمالية",
-    "name_en": "Ar Rakah Ash Shamaliyah"
+    "name_en": "Rakah Ash Shamaliyah"
   },
   {
     "district_id": 10500013051,
@@ -13941,14 +13941,14 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي السوق",
-    "name_en": "As Suq"
+    "name_en": "Suq"
   },
   {
     "district_id": 10500013056,
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10500013057,
@@ -13976,14 +13976,14 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الرابية",
-    "name_en": "Ar Rabiyah"
+    "name_en": "Rabiyah"
   },
   {
     "district_id": 10500013061,
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الدانة",
-    "name_en": "Ad Danah"
+    "name_en": "Danah"
   },
   {
     "district_id": 10500013062,
@@ -14060,7 +14060,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الشعلة",
-    "name_en": "Ash Shulah"
+    "name_en": "Shulah"
   },
   {
     "district_id": 10500013074,
@@ -14081,7 +14081,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الشرق",
-    "name_en": "Ash Sharq"
+    "name_en": "Sharq"
   },
   {
     "district_id": 10500013077,
@@ -14172,7 +14172,7 @@
     "city_id": 31,
     "region_id": 5,
     "name_ar": "حي التحلية",
-    "name_en": "At Tahliyah"
+    "name_en": "Tahliyah"
   },
   {
     "district_id": 10500031002,
@@ -14200,14 +14200,14 @@
     "city_id": 31,
     "region_id": 5,
     "name_ar": "حي التعاون",
-    "name_en": "At Taawun"
+    "name_en": "Taawun"
   },
   {
     "district_id": 10500031006,
     "city_id": 31,
     "region_id": 5,
     "name_ar": "حي الراكة الجنوبية",
-    "name_en": "Ar Rakah Al Janubiyah"
+    "name_en": "Rakah Al Janubiyah"
   },
   {
     "district_id": 10500031007,
@@ -14242,7 +14242,7 @@
     "city_id": 31,
     "region_id": 5,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10500031012,
@@ -14375,7 +14375,7 @@
     "city_id": 31,
     "region_id": 5,
     "name_ar": "حي الساحل",
-    "name_en": "As Sahil"
+    "name_en": "Sahil"
   },
   {
     "district_id": 10500031031,
@@ -14403,7 +14403,7 @@
     "city_id": 31,
     "region_id": 5,
     "name_ar": "حي الشراع",
-    "name_en": "Ash Sheraa"
+    "name_en": "Sheraa"
   },
   {
     "district_id": 10500031035,
@@ -14417,14 +14417,14 @@
     "city_id": 31,
     "region_id": 5,
     "name_ar": "حي الرجاء",
-    "name_en": "Ar Raja"
+    "name_en": "Raja"
   },
   {
     "district_id": 10500031037,
     "city_id": 31,
     "region_id": 5,
     "name_ar": "حي الصواري",
-    "name_en": "As Sawari"
+    "name_en": "Sawari"
   },
   {
     "district_id": 10500031038,
@@ -14466,21 +14466,21 @@
     "city_id": 31,
     "region_id": 5,
     "name_ar": "حي السفن",
-    "name_en": "As Sufun"
+    "name_en": "Sufun"
   },
   {
     "district_id": 10500031044,
     "city_id": 31,
     "region_id": 5,
     "name_ar": "حي الصدفة",
-    "name_en": "As Sadafah"
+    "name_en": "Sadafah"
   },
   {
     "district_id": 10500047001,
     "city_id": 47,
     "region_id": 5,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10500047002,
@@ -14501,21 +14501,21 @@
     "city_id": 47,
     "region_id": 5,
     "name_ar": "حي الرابية",
-    "name_en": "Ar Rabiyah"
+    "name_en": "Rabiyah"
   },
   {
     "district_id": 10500047005,
     "city_id": 47,
     "region_id": 5,
     "name_ar": "حي التلال",
-    "name_en": "At Talal"
+    "name_en": "Talal"
   },
   {
     "district_id": 10500047006,
     "city_id": 47,
     "region_id": 5,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10500047007,
@@ -14536,7 +14536,7 @@
     "city_id": 47,
     "region_id": 5,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10500047010,
@@ -14557,7 +14557,7 @@
     "city_id": 47,
     "region_id": 5,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10500047013,
@@ -14613,14 +14613,14 @@
     "city_id": 47,
     "region_id": 5,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10500047021,
     "city_id": 47,
     "region_id": 5,
     "name_ar": "حي السليمانية",
-    "name_en": "As Sulimaniyah"
+    "name_en": "Sulimaniyah"
   },
   {
     "district_id": 10500047022,
@@ -14655,7 +14655,7 @@
     "city_id": 47,
     "region_id": 5,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayan"
+    "name_en": "Rayan"
   },
   {
     "district_id": 10500047027,
@@ -14718,7 +14718,7 @@
     "city_id": 47,
     "region_id": 5,
     "name_ar": "حي الرائد",
-    "name_en": "Ar Raid"
+    "name_en": "Raid"
   },
   {
     "district_id": 10500047036,
@@ -14732,7 +14732,7 @@
     "city_id": 55,
     "region_id": 5,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10500055002,
@@ -14760,7 +14760,7 @@
     "city_id": 55,
     "region_id": 5,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10500055006,
@@ -14788,7 +14788,7 @@
     "city_id": 55,
     "region_id": 5,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10500055010,
@@ -14823,7 +14823,7 @@
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الشاطئ",
-    "name_en": "Ash Shati"
+    "name_en": "Shati"
   },
   {
     "district_id": 10500067007,
@@ -14851,14 +14851,14 @@
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10500067011,
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10500067012,
@@ -14872,7 +14872,7 @@
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الرضا",
-    "name_en": "Ar Rida"
+    "name_en": "Rida"
   },
   {
     "district_id": 10500067014,
@@ -14907,7 +14907,7 @@
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الدبابية",
-    "name_en": "Ad Dababiyyah"
+    "name_en": "Dababiyyah"
   },
   {
     "district_id": 10500067019,
@@ -14984,7 +14984,7 @@
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي التوبي",
-    "name_en": "At Tawbi"
+    "name_en": "Tawbi"
   },
   {
     "district_id": 10500067030,
@@ -14998,7 +14998,7 @@
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الشهباء",
-    "name_en": "Ash Shahba"
+    "name_en": "Shahba"
   },
   {
     "district_id": 10500067032,
@@ -15019,7 +15019,7 @@
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الشماسيه",
-    "name_en": "Ash Shamasiyyah"
+    "name_en": "Shamasiyyah"
   },
   {
     "district_id": 10500067035,
@@ -15061,14 +15061,14 @@
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الدويج",
-    "name_en": "Ad Doij"
+    "name_en": "Doij"
   },
   {
     "district_id": 10500067041,
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الرابعة",
-    "name_en": "Ar Rabiah"
+    "name_en": "Rabiah"
   },
   {
     "district_id": 10500067042,
@@ -15089,7 +15089,7 @@
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الشريعة",
-    "name_en": "Ash Shariah"
+    "name_en": "Shariah"
   },
   {
     "district_id": 10500067045,
@@ -15138,7 +15138,7 @@
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الريف",
-    "name_en": "Ar Rif"
+    "name_en": "Rif"
   },
   {
     "district_id": 10500067052,
@@ -15159,7 +15159,7 @@
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي الشويكة",
-    "name_en": "Ash Shweikah"
+    "name_en": "Shweikah"
   },
   {
     "district_id": 10500067055,
@@ -15201,14 +15201,14 @@
     "city_id": 89,
     "region_id": 5,
     "name_ar": "حي الرفاع",
-    "name_en": "Ar Rifaa"
+    "name_en": "Rifaa"
   },
   {
     "district_id": 10500089002,
     "city_id": 89,
     "region_id": 5,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10500089003,
@@ -15236,14 +15236,14 @@
     "city_id": 89,
     "region_id": 5,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10500089007,
     "city_id": 89,
     "region_id": 5,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10500089008,
@@ -15278,14 +15278,14 @@
     "city_id": 89,
     "region_id": 5,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10500089013,
     "city_id": 89,
     "region_id": 5,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10500089014,
@@ -15418,7 +15418,7 @@
     "city_id": 113,
     "region_id": 5,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10500113019,
@@ -15495,7 +15495,7 @@
     "city_id": 113,
     "region_id": 5,
     "name_ar": "حي الشاطئ",
-    "name_en": "Ash Shati"
+    "name_en": "Shati"
   },
   {
     "district_id": 10500113030,
@@ -15621,21 +15621,21 @@
     "city_id": 115,
     "region_id": 5,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10500115003,
     "city_id": 115,
     "region_id": 5,
     "name_ar": "حي التشاليح",
-    "name_en": "At Tashalih"
+    "name_en": "Tashalih"
   },
   {
     "district_id": 10500115004,
     "city_id": 115,
     "region_id": 5,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10500115005,
@@ -15677,14 +15677,14 @@
     "city_id": 227,
     "region_id": 5,
     "name_ar": "حي الدوحة الجنوبية",
-    "name_en": "Ad Dawhah Al Janubiyah"
+    "name_en": "Dawhah Al Janubiyah"
   },
   {
     "district_id": 10500227002,
     "city_id": 227,
     "region_id": 5,
     "name_ar": "حي الدانة الشمالية",
-    "name_en": "Ad Danah Ash Shamaliyah"
+    "name_en": "Danah Ash Shamaliyah"
   },
   {
     "district_id": 10500227003,
@@ -15698,14 +15698,14 @@
     "city_id": 227,
     "region_id": 5,
     "name_ar": "حي الدوحة الشمالية",
-    "name_en": "Ad Dawhah Ash Shamaliyah"
+    "name_en": "Dawhah Ash Shamaliyah"
   },
   {
     "district_id": 10500227005,
     "city_id": 227,
     "region_id": 5,
     "name_ar": "حي الدانة الجنوبية",
-    "name_en": "Ad Danah Al Janubiyah"
+    "name_en": "Danah Al Janubiyah"
   },
   {
     "district_id": 10500227006,
@@ -15768,7 +15768,7 @@
     "city_id": 243,
     "region_id": 5,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10500243002,
@@ -15782,7 +15782,7 @@
     "city_id": 243,
     "region_id": 5,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10500243004,
@@ -15803,7 +15803,7 @@
     "city_id": 243,
     "region_id": 5,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10500243007,
@@ -15866,7 +15866,7 @@
     "city_id": 454,
     "region_id": 5,
     "name_ar": "حي الديرة",
-    "name_en": "Ad Dirah"
+    "name_en": "Dirah"
   },
   {
     "district_id": 10500454003,
@@ -15887,7 +15887,7 @@
     "city_id": 454,
     "region_id": 5,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10500454006,
@@ -15901,7 +15901,7 @@
     "city_id": 454,
     "region_id": 5,
     "name_ar": "حي الطف",
-    "name_en": "At Tif"
+    "name_en": "Tif"
   },
   {
     "district_id": 10500454008,
@@ -15978,7 +15978,7 @@
     "city_id": 454,
     "region_id": 5,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10500456003,
@@ -15992,7 +15992,7 @@
     "city_id": 456,
     "region_id": 5,
     "name_ar": "حي الصدفة",
-    "name_en": "As Sadafah"
+    "name_en": "Sadafah"
   },
   {
     "district_id": 10500456005,
@@ -16013,7 +16013,7 @@
     "city_id": 456,
     "region_id": 5,
     "name_ar": "حي الربيعية",
-    "name_en": "Ar Rabeiyah"
+    "name_en": "Rabeiyah"
   },
   {
     "district_id": 10500456008,
@@ -16048,7 +16048,7 @@
     "city_id": 456,
     "region_id": 5,
     "name_ar": "حي الديرة",
-    "name_en": "Ad Dirah"
+    "name_en": "Dirah"
   },
   {
     "district_id": 10500456013,
@@ -16069,7 +16069,7 @@
     "city_id": 456,
     "region_id": 5,
     "name_ar": "حي الصواري",
-    "name_en": "As Sawari"
+    "name_en": "Sawari"
   },
   {
     "district_id": 10500456016,
@@ -16097,7 +16097,7 @@
     "city_id": 2038,
     "region_id": 5,
     "name_ar": "بلدة الشقيق الغربية",
-    "name_en": "Ash Shaqiq Western"
+    "name_en": "Shaqiq Western"
   },
   {
     "district_id": 10502038003,
@@ -16181,7 +16181,7 @@
     "city_id": 2038,
     "region_id": 5,
     "name_ar": "حي الصفا الرابع",
-    "name_en": "As Safa 4th"
+    "name_en": "Safa 4th"
   },
   {
     "district_id": 10502038015,
@@ -16202,21 +16202,21 @@
     "city_id": 2038,
     "region_id": 5,
     "name_ar": "حي الصفا الثاني",
-    "name_en": "As Safa 2nd"
+    "name_en": "Safa 2nd"
   },
   {
     "district_id": 10502038018,
     "city_id": 2038,
     "region_id": 5,
     "name_ar": "حي الصفا الثالث",
-    "name_en": "As Safa 3rd"
+    "name_en": "Safa 3rd"
   },
   {
     "district_id": 10502038019,
     "city_id": 2038,
     "region_id": 5,
     "name_ar": "حي الصفا الاول",
-    "name_en": "As Safa 1st"
+    "name_en": "Safa 1st"
   },
   {
     "district_id": 10502038020,
@@ -16230,14 +16230,14 @@
     "city_id": 2038,
     "region_id": 5,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10502038022,
     "city_id": 2038,
     "region_id": 5,
     "name_ar": "حي الرابية",
-    "name_en": "Ar Rabiyah"
+    "name_en": "Rabiyah"
   },
   {
     "district_id": 10502038023,
@@ -16300,14 +16300,14 @@
     "city_id": 2038,
     "region_id": 5,
     "name_ar": "بلدة الشقيق الشرقية",
-    "name_en": "Ash Shaqiq Eastern"
+    "name_en": "Shaqiq Eastern"
   },
   {
     "district_id": 10502167001,
     "city_id": 2167,
     "region_id": 5,
     "name_ar": "حي التلال",
-    "name_en": "At Talal"
+    "name_en": "Talal"
   },
   {
     "district_id": 10502167002,
@@ -16321,7 +16321,7 @@
     "city_id": 2167,
     "region_id": 5,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10502167004,
@@ -16342,14 +16342,14 @@
     "city_id": 2167,
     "region_id": 5,
     "name_ar": "حي الريحان",
-    "name_en": "Ar Raihan"
+    "name_en": "Raihan"
   },
   {
     "district_id": 10502167007,
     "city_id": 2167,
     "region_id": 5,
     "name_ar": "حي الدريدي",
-    "name_en": "Ad Duraydi"
+    "name_en": "Duraydi"
   },
   {
     "district_id": 10502167008,
@@ -16363,7 +16363,7 @@
     "city_id": 2167,
     "region_id": 5,
     "name_ar": "حي الرويحة",
-    "name_en": "Ar Ruwaihah"
+    "name_en": "Ruwaihah"
   },
   {
     "district_id": 10502167010,
@@ -16384,7 +16384,7 @@
     "city_id": 2167,
     "region_id": 5,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10502167013,
@@ -16461,7 +16461,7 @@
     "city_id": 2167,
     "region_id": 5,
     "name_ar": "حي الشورى",
-    "name_en": "Ash Shura"
+    "name_en": "Shura"
   },
   {
     "district_id": 10502170001,
@@ -16475,14 +16475,14 @@
     "city_id": 2170,
     "region_id": 5,
     "name_ar": "حي الراية",
-    "name_en": "Ar Rayah"
+    "name_en": "Rayah"
   },
   {
     "district_id": 10502170003,
     "city_id": 2170,
     "region_id": 5,
     "name_ar": "حي الرمال",
-    "name_en": "Ar Rimal"
+    "name_en": "Rimal"
   },
   {
     "district_id": 10502171001,
@@ -16524,7 +16524,7 @@
     "city_id": 2176,
     "region_id": 5,
     "name_ar": "حي الساحل",
-    "name_en": "As Sahil"
+    "name_en": "Sahil"
   },
   {
     "district_id": 10502176002,
@@ -16552,7 +16552,7 @@
     "city_id": 2464,
     "region_id": 5,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10502464002,
@@ -16566,7 +16566,7 @@
     "city_id": 2464,
     "region_id": 5,
     "name_ar": "حي التعاون",
-    "name_en": "At Taawun"
+    "name_en": "Taawun"
   },
   {
     "district_id": 10502464004,
@@ -16580,14 +16580,14 @@
     "city_id": 2464,
     "region_id": 5,
     "name_ar": "حي الشاطئ",
-    "name_en": "Ash Shati"
+    "name_en": "Shati"
   },
   {
     "district_id": 10502464006,
     "city_id": 2464,
     "region_id": 5,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10502464007,
@@ -16664,7 +16664,7 @@
     "city_id": 2464,
     "region_id": 5,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 10502464018,
@@ -16783,7 +16783,7 @@
     "city_id": 2590,
     "region_id": 5,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10502590007,
@@ -16797,14 +16797,14 @@
     "city_id": 2590,
     "region_id": 5,
     "name_ar": "حي الدانة",
-    "name_en": "Ad Danah"
+    "name_en": "Danah"
   },
   {
     "district_id": 10502590009,
     "city_id": 2590,
     "region_id": 5,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10502590010,
@@ -16818,7 +16818,7 @@
     "city_id": 2643,
     "region_id": 5,
     "name_ar": "حي الشروق",
-    "name_en": "Ash Shuruq"
+    "name_en": "Shuruq"
   },
   {
     "district_id": 10502643002,
@@ -16846,7 +16846,7 @@
     "city_id": 2643,
     "region_id": 5,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10502643006,
@@ -16881,21 +16881,21 @@
     "city_id": 2653,
     "region_id": 5,
     "name_ar": "حي الشروق",
-    "name_en": "Ash Shuruq"
+    "name_en": "Shuruq"
   },
   {
     "district_id": 10502653004,
     "city_id": 2653,
     "region_id": 5,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10502653005,
     "city_id": 2653,
     "region_id": 5,
     "name_ar": "حي التمور",
-    "name_en": "At Tamor"
+    "name_en": "Tamor"
   },
   {
     "district_id": 10502653006,
@@ -16930,7 +16930,7 @@
     "city_id": 2653,
     "region_id": 5,
     "name_ar": "بلدة الطريبيل",
-    "name_en": "At Tarbil"
+    "name_en": "Tarbil"
   },
   {
     "district_id": 10502653011,
@@ -16958,7 +16958,7 @@
     "city_id": 2653,
     "region_id": 5,
     "name_ar": "قرية السيايرة",
-    "name_en": "As Syayrah"
+    "name_en": "Syayrah"
   },
   {
     "district_id": 10502653015,
@@ -16972,7 +16972,7 @@
     "city_id": 2653,
     "region_id": 5,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10502653017,
@@ -16986,7 +16986,7 @@
     "city_id": 2653,
     "region_id": 5,
     "name_ar": "قرية الرميلة",
-    "name_en": "Ar Rumaylah"
+    "name_en": "Rumaylah"
   },
   {
     "district_id": 10502653019,
@@ -17021,7 +17021,7 @@
     "city_id": 2653,
     "region_id": 5,
     "name_ar": "بلدة الصبايخ",
-    "name_en": "As Sabaiykh"
+    "name_en": "Sabaiykh"
   },
   {
     "district_id": 10502653024,
@@ -17070,7 +17070,7 @@
     "city_id": 2653,
     "region_id": 5,
     "name_ar": "بلدة التهيمية",
-    "name_en": "At Tahemah"
+    "name_en": "Tahemah"
   },
   {
     "district_id": 10502653031,
@@ -17091,7 +17091,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10502748002,
@@ -17133,7 +17133,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الراشدية الثاني",
-    "name_en": "Ar Rashidyah 2nd"
+    "name_en": "Rashidyah 2nd"
   },
   {
     "district_id": 10502748008,
@@ -17161,7 +17161,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الراشدية الأول",
-    "name_en": "Ar Rashidyah 1st"
+    "name_en": "Rashidyah 1st"
   },
   {
     "district_id": 10502748012,
@@ -17245,7 +17245,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الديوان",
-    "name_en": "Ad Daywan"
+    "name_en": "Daywan"
   },
   {
     "district_id": 10502748024,
@@ -17259,7 +17259,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي السلام الأول",
-    "name_en": "As Salam 1st"
+    "name_en": "Salam 1st"
   },
   {
     "district_id": 10502748026,
@@ -17329,7 +17329,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي السلام الثاني",
-    "name_en": "As Salam 2nd"
+    "name_en": "Salam 2nd"
   },
   {
     "district_id": 10502748036,
@@ -17350,7 +17350,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي السحيمية",
-    "name_en": "As Suhaimiyah"
+    "name_en": "Suhaimiyah"
   },
   {
     "district_id": 10502748039,
@@ -17378,7 +17378,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الراشدية الثالث",
-    "name_en": "Ar Rashidyah 3rd"
+    "name_en": "Rashidyah 3rd"
   },
   {
     "district_id": 10502748043,
@@ -17406,14 +17406,14 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الشراع الجنوبي",
-    "name_en": "Ash Shara Southern"
+    "name_en": "Shara Southern"
   },
   {
     "district_id": 10502748047,
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الشراع الشمالي",
-    "name_en": "Ash Shara Northern"
+    "name_en": "Shara Northern"
   },
   {
     "district_id": 10502748048,
@@ -17504,7 +17504,7 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "بلدة الشهارين",
-    "name_en": "Ash Shaharin"
+    "name_en": "Shaharin"
   },
   {
     "district_id": 10502764009,
@@ -17525,7 +17525,7 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "حي الرياض الثاني",
-    "name_en": "Ar Riyadh 2nd"
+    "name_en": "Riyadh 2nd"
   },
   {
     "district_id": 10502764012,
@@ -17539,7 +17539,7 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "بلدة الطرف",
-    "name_en": "At Tarf"
+    "name_en": "Tarf"
   },
   {
     "district_id": 10502764014,
@@ -17616,7 +17616,7 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "حي الركاز",
-    "name_en": "Ar Rekaz"
+    "name_en": "Rekaz"
   },
   {
     "district_id": 10502764025,
@@ -17672,7 +17672,7 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "حي الديرة",
-    "name_en": "Ad Dirah"
+    "name_en": "Dirah"
   },
   {
     "district_id": 10502764033,
@@ -17693,7 +17693,7 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "حي التلال",
-    "name_en": "At Talal"
+    "name_en": "Talal"
   },
   {
     "district_id": 10502764036,
@@ -17707,7 +17707,7 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "حي الرياض الاول",
-    "name_en": "Ar Riyadh 1st"
+    "name_en": "Riyadh 1st"
   },
   {
     "district_id": 10502764038,
@@ -17721,7 +17721,7 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10502764040,
@@ -17763,7 +17763,7 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "حي الرياض الرابع",
-    "name_en": "Ar Riyadh 4th"
+    "name_en": "Riyadh 4th"
   },
   {
     "district_id": 10502764046,
@@ -17791,14 +17791,14 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "بلدة السباط",
-    "name_en": "As Sabat"
+    "name_en": "Sabat"
   },
   {
     "district_id": 10502764050,
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10502764051,
@@ -17819,7 +17819,7 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "حي السهلة",
-    "name_en": "As Sahlah"
+    "name_en": "Sahlah"
   },
   {
     "district_id": 10502764054,
@@ -17847,7 +17847,7 @@
     "city_id": 2764,
     "region_id": 5,
     "name_ar": "حي الرياض الثالث",
-    "name_en": "Ar Riyadh 3rd"
+    "name_en": "Riyadh 3rd"
   },
   {
     "district_id": 10502764058,
@@ -17952,7 +17952,7 @@
     "city_id": 3700,
     "region_id": 5,
     "name_ar": "حي الرفاع",
-    "name_en": "Ar Rifaa"
+    "name_en": "Rifaa"
   },
   {
     "district_id": 10503700011,
@@ -17966,7 +17966,7 @@
     "city_id": 3700,
     "region_id": 5,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10511075001,
@@ -18043,7 +18043,7 @@
     "city_id": 15,
     "region_id": 6,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10600015010,
@@ -18064,7 +18064,7 @@
     "city_id": 15,
     "region_id": 6,
     "name_ar": "حي الضباب",
-    "name_en": "Ad Dabab"
+    "name_en": "Dabab"
   },
   {
     "district_id": 10600015014,
@@ -18078,7 +18078,7 @@
     "city_id": 15,
     "region_id": 6,
     "name_ar": "حي الشرفية",
-    "name_en": "Ash Sharafiyah"
+    "name_en": "Sharafiyah"
   },
   {
     "district_id": 10600015016,
@@ -18092,7 +18092,7 @@
     "city_id": 15,
     "region_id": 6,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10600015018,
@@ -18106,7 +18106,7 @@
     "city_id": 15,
     "region_id": 6,
     "name_ar": "حي السروات",
-    "name_en": "As Sarawat"
+    "name_en": "Sarawat"
   },
   {
     "district_id": 10600015020,
@@ -18120,7 +18120,7 @@
     "city_id": 15,
     "region_id": 6,
     "name_ar": "حي السد",
-    "name_en": "As Sadd"
+    "name_en": "Sadd"
   },
   {
     "district_id": 10600015022,
@@ -18190,7 +18190,7 @@
     "city_id": 15,
     "region_id": 6,
     "name_ar": "حي التعاون",
-    "name_en": "At Taawun"
+    "name_en": "Taawun"
   },
   {
     "district_id": 10600015032,
@@ -18218,7 +18218,7 @@
     "city_id": 15,
     "region_id": 6,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10600015036,
@@ -18246,7 +18246,7 @@
     "city_id": 15,
     "region_id": 6,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10600015040,
@@ -18267,7 +18267,7 @@
     "city_id": 15,
     "region_id": 6,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10600015043,
@@ -18309,7 +18309,7 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي السد",
-    "name_en": "As Sad"
+    "name_en": "Sad"
   },
   {
     "district_id": 10600062005,
@@ -18337,7 +18337,7 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10600062009,
@@ -18456,7 +18456,7 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي الصقور",
-    "name_en": "As Suqur"
+    "name_en": "Suqur"
   },
   {
     "district_id": 10600062026,
@@ -18484,14 +18484,14 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي الشرفية",
-    "name_en": "Ash Sharafiyah"
+    "name_en": "Sharafiyah"
   },
   {
     "district_id": 10600062030,
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10600062031,
@@ -18505,7 +18505,7 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10600062033,
@@ -18519,7 +18519,7 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي الدوحة",
-    "name_en": "Ad Dawhah"
+    "name_en": "Dawhah"
   },
   {
     "district_id": 10600062035,
@@ -18554,14 +18554,14 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي الرونه",
-    "name_en": "Ar Runah"
+    "name_en": "Runah"
   },
   {
     "district_id": 10600062040,
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10600062041,
@@ -18575,7 +18575,7 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي الرصراص 2",
-    "name_en": "Ar Rasras 2"
+    "name_en": "Rasras 2"
   },
   {
     "district_id": 10600062043,
@@ -18701,7 +18701,7 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10600062062,
@@ -18715,7 +18715,7 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي التعاون",
-    "name_en": "At Taawun"
+    "name_en": "Taawun"
   },
   {
     "district_id": 10600062064,
@@ -18750,7 +18750,7 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي الرصراص 1",
-    "name_en": "Ar Rasras 1"
+    "name_en": "Rasras 1"
   },
   {
     "district_id": 10600062069,
@@ -18806,7 +18806,7 @@
     "city_id": 65,
     "region_id": 6,
     "name_ar": "حي السلامة",
-    "name_en": "As Salamah"
+    "name_en": "Salamah"
   },
   {
     "district_id": 10600065005,
@@ -18848,7 +18848,7 @@
     "city_id": 65,
     "region_id": 6,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10600065011,
@@ -18869,7 +18869,7 @@
     "city_id": 65,
     "region_id": 6,
     "name_ar": "حي الرونه",
-    "name_en": "Ar Runah"
+    "name_en": "Runah"
   },
   {
     "district_id": 10600065014,
@@ -18883,7 +18883,7 @@
     "city_id": 65,
     "region_id": 6,
     "name_ar": "حي الروضه 1",
-    "name_en": "Ar Rawdah 1"
+    "name_en": "Rawdah 1"
   },
   {
     "district_id": 10600256001,
@@ -19009,14 +19009,14 @@
     "city_id": 1294,
     "region_id": 6,
     "name_ar": "حي التقدم",
-    "name_en": "At Taqadom"
+    "name_en": "Taqadom"
   },
   {
     "district_id": 10601294005,
     "city_id": 1294,
     "region_id": 6,
     "name_ar": "حي الشرق",
-    "name_en": "Ash Sharq"
+    "name_en": "Sharq"
   },
   {
     "district_id": 10601294006,
@@ -19044,7 +19044,7 @@
     "city_id": 1294,
     "region_id": 6,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10601294010,
@@ -19058,14 +19058,14 @@
     "city_id": 1294,
     "region_id": 6,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10601294012,
     "city_id": 1294,
     "region_id": 6,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10601443001,
@@ -19142,7 +19142,7 @@
     "city_id": 1443,
     "region_id": 6,
     "name_ar": "حي التعاون",
-    "name_en": "At Taawun"
+    "name_en": "Taawun"
   },
   {
     "district_id": 10601443012,
@@ -19177,14 +19177,14 @@
     "city_id": 1514,
     "region_id": 6,
     "name_ar": "حي الصواير",
-    "name_en": "As Sawaer"
+    "name_en": "Sawaer"
   },
   {
     "district_id": 10601514002,
     "city_id": 1514,
     "region_id": 6,
     "name_ar": "حي الرمال",
-    "name_en": "Ar Rimal"
+    "name_en": "Rimal"
   },
   {
     "district_id": 10601514003,
@@ -19205,7 +19205,7 @@
     "city_id": 1514,
     "region_id": 6,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10601514006,
@@ -19268,21 +19268,21 @@
     "city_id": 1514,
     "region_id": 6,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 10601514015,
     "city_id": 1514,
     "region_id": 6,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10601514016,
     "city_id": 1514,
     "region_id": 6,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10601514017,
@@ -19317,7 +19317,7 @@
     "city_id": 1514,
     "region_id": 6,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 10601514022,
@@ -19338,14 +19338,14 @@
     "city_id": 1514,
     "region_id": 6,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10601514025,
     "city_id": 1514,
     "region_id": 6,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10601514026,
@@ -19380,21 +19380,21 @@
     "city_id": 1627,
     "region_id": 6,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10601627003,
     "city_id": 1627,
     "region_id": 6,
     "name_ar": "حي الشاطئ",
-    "name_en": "Ash Shati"
+    "name_en": "Shati"
   },
   {
     "district_id": 10601627004,
     "city_id": 1627,
     "region_id": 6,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10601627005,
@@ -19408,7 +19408,7 @@
     "city_id": 1627,
     "region_id": 6,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10601627007,
@@ -19457,14 +19457,14 @@
     "city_id": 1627,
     "region_id": 6,
     "name_ar": "حي الشرق",
-    "name_en": "Ash Sharq"
+    "name_en": "Sharq"
   },
   {
     "district_id": 10601627014,
     "city_id": 1627,
     "region_id": 6,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10601627015,
@@ -19541,7 +19541,7 @@
     "city_id": 1801,
     "region_id": 6,
     "name_ar": "حي الشهد",
-    "name_en": "Ash Shahd"
+    "name_en": "Shahd"
   },
   {
     "district_id": 10601801009,
@@ -19569,7 +19569,7 @@
     "city_id": 1801,
     "region_id": 6,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10601801013,
@@ -19583,7 +19583,7 @@
     "city_id": 1801,
     "region_id": 6,
     "name_ar": "حي الضرس",
-    "name_en": "Ad Dirs"
+    "name_en": "Dirs"
   },
   {
     "district_id": 10601801015,
@@ -19611,7 +19611,7 @@
     "city_id": 1801,
     "region_id": 6,
     "name_ar": "حي السلامة",
-    "name_en": "As Salamah"
+    "name_en": "Salamah"
   },
   {
     "district_id": 10601801019,
@@ -19625,14 +19625,14 @@
     "city_id": 1847,
     "region_id": 6,
     "name_ar": "حي الريحان",
-    "name_en": "Ar Raihan"
+    "name_en": "Raihan"
   },
   {
     "district_id": 10601847002,
     "city_id": 1847,
     "region_id": 6,
     "name_ar": "حي السودة",
-    "name_en": "As Suda"
+    "name_en": "Suda"
   },
   {
     "district_id": 10601847003,
@@ -19667,7 +19667,7 @@
     "city_id": 2519,
     "region_id": 6,
     "name_ar": "حي الضباب",
-    "name_en": "Ad Dabab"
+    "name_en": "Dabab"
   },
   {
     "district_id": 10602519003,
@@ -19681,7 +19681,7 @@
     "city_id": 2519,
     "region_id": 6,
     "name_ar": "حي السروات",
-    "name_en": "As Sarawat"
+    "name_en": "Sarawat"
   },
   {
     "district_id": 10602519005,
@@ -19695,21 +19695,21 @@
     "city_id": 2519,
     "region_id": 6,
     "name_ar": "حي السد",
-    "name_en": "As Sad"
+    "name_en": "Sad"
   },
   {
     "district_id": 10602519007,
     "city_id": 2519,
     "region_id": 6,
     "name_ar": "حي الصديق",
-    "name_en": "As Sediq"
+    "name_en": "Sediq"
   },
   {
     "district_id": 10602519008,
     "city_id": 2519,
     "region_id": 6,
     "name_ar": "حي الشروق",
-    "name_en": "Ash Shuruq"
+    "name_en": "Shuruq"
   },
   {
     "district_id": 10602519009,
@@ -19723,7 +19723,7 @@
     "city_id": 2519,
     "region_id": 6,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10602519011,
@@ -19772,7 +19772,7 @@
     "city_id": 2968,
     "region_id": 6,
     "name_ar": "حي الريحان",
-    "name_en": "Ar Raihan"
+    "name_en": "Raihan"
   },
   {
     "district_id": 10603273001,
@@ -19786,14 +19786,14 @@
     "city_id": 3273,
     "region_id": 6,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10603273003,
     "city_id": 3273,
     "region_id": 6,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10603273004,
@@ -19807,14 +19807,14 @@
     "city_id": 3273,
     "region_id": 6,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10603273006,
     "city_id": 3273,
     "region_id": 6,
     "name_ar": "حي الضباب",
-    "name_en": "Ad Dabab"
+    "name_en": "Dabab"
   },
   {
     "district_id": 10603273007,
@@ -19863,21 +19863,21 @@
     "city_id": 3275,
     "region_id": 6,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 10603275002,
     "city_id": 3275,
     "region_id": 6,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10603275003,
     "city_id": 3275,
     "region_id": 6,
     "name_ar": "حي السلامة",
-    "name_en": "As Salamah"
+    "name_en": "Salamah"
   },
   {
     "district_id": 10603275004,
@@ -19898,14 +19898,14 @@
     "city_id": 3275,
     "region_id": 6,
     "name_ar": "حي السامر",
-    "name_en": "As Samir"
+    "name_en": "Samir"
   },
   {
     "district_id": 10603275007,
     "city_id": 3275,
     "region_id": 6,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10603275008,
@@ -19919,14 +19919,14 @@
     "city_id": 3275,
     "region_id": 6,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10603275010,
     "city_id": 3275,
     "region_id": 6,
     "name_ar": "حي الشفا",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10603275011,
@@ -19961,7 +19961,7 @@
     "city_id": 3275,
     "region_id": 6,
     "name_ar": "حي السروات",
-    "name_en": "As Sarawat"
+    "name_en": "Sarawat"
   },
   {
     "district_id": 10603275016,
@@ -19982,7 +19982,7 @@
     "city_id": 3328,
     "region_id": 6,
     "name_ar": "حي الشفا",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10603328003,
@@ -20003,14 +20003,14 @@
     "city_id": 3328,
     "region_id": 6,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10603328006,
     "city_id": 3328,
     "region_id": 6,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10603328007,
@@ -20045,7 +20045,7 @@
     "city_id": 3383,
     "region_id": 6,
     "name_ar": "حي الربوه",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10603678001,
@@ -20472,7 +20472,7 @@
     "city_id": 1,
     "region_id": 7,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10700001061,
@@ -20493,7 +20493,7 @@
     "city_id": 1,
     "region_id": 7,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10700001064,
@@ -20521,7 +20521,7 @@
     "city_id": 1,
     "region_id": 7,
     "name_ar": "حي السلمان",
-    "name_en": "As Salman"
+    "name_en": "Salman"
   },
   {
     "district_id": 10700036001,
@@ -20542,7 +20542,7 @@
     "city_id": 36,
     "region_id": 7,
     "name_ar": "حي السبخة",
-    "name_en": "As Sabkhah"
+    "name_en": "Sabkhah"
   },
   {
     "district_id": 10700036004,
@@ -20556,7 +20556,7 @@
     "city_id": 36,
     "region_id": 7,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 10700036006,
@@ -20668,14 +20668,14 @@
     "city_id": 74,
     "region_id": 7,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 10700074002,
     "city_id": 74,
     "region_id": 7,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10700074003,
@@ -20689,14 +20689,14 @@
     "city_id": 74,
     "region_id": 7,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10700074005,
     "city_id": 74,
     "region_id": 7,
     "name_ar": "حي التجاري",
-    "name_en": "At Tijari"
+    "name_en": "Tijari"
   },
   {
     "district_id": 10700074006,
@@ -20738,14 +20738,14 @@
     "city_id": 74,
     "region_id": 7,
     "name_ar": "حي الشرق",
-    "name_en": "Ash Sharq"
+    "name_en": "Sharq"
   },
   {
     "district_id": 10700074012,
     "city_id": 74,
     "region_id": 7,
     "name_ar": "حي الرحمانية",
-    "name_en": "Ar Rahmaniyah"
+    "name_en": "Rahmaniyah"
   },
   {
     "district_id": 10700074013,
@@ -20759,7 +20759,7 @@
     "city_id": 74,
     "region_id": 7,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10700074015,
@@ -20808,7 +20808,7 @@
     "city_id": 233,
     "region_id": 7,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 10700233002,
@@ -20871,7 +20871,7 @@
     "city_id": 323,
     "region_id": 7,
     "name_ar": "حي التحلية",
-    "name_en": "At Tahliyyah"
+    "name_en": "Tahliyyah"
   },
   {
     "district_id": 10700323004,
@@ -20885,7 +20885,7 @@
     "city_id": 323,
     "region_id": 7,
     "name_ar": "حي الصيادية",
-    "name_en": "As Sayyadih"
+    "name_en": "Sayyadih"
   },
   {
     "district_id": 10700323006,
@@ -20899,7 +20899,7 @@
     "city_id": 323,
     "region_id": 7,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdhah"
+    "name_en": "Rawdhah"
   },
   {
     "district_id": 10700323008,
@@ -21032,7 +21032,7 @@
     "city_id": 10,
     "region_id": 8,
     "name_ar": "حي السمراء",
-    "name_en": "As Samra"
+    "name_en": "Samra"
   },
   {
     "district_id": 10800010010,
@@ -21081,7 +21081,7 @@
     "city_id": 10,
     "region_id": 8,
     "name_ar": "حي السويفلة",
-    "name_en": "As Suwayfilah"
+    "name_en": "Suwayfilah"
   },
   {
     "district_id": 10800010017,
@@ -21165,7 +21165,7 @@
     "city_id": 10,
     "region_id": 8,
     "name_ar": "حي السويفلة",
-    "name_en": "As Suwayfilah"
+    "name_en": "Suwayfilah"
   },
   {
     "district_id": 10800010031,
@@ -21207,7 +21207,7 @@
     "city_id": 10,
     "region_id": 8,
     "name_ar": "حي الرصف",
-    "name_en": "Ar Rasf"
+    "name_en": "Rasf"
   },
   {
     "district_id": 10800010037,
@@ -21270,7 +21270,7 @@
     "city_id": 1228,
     "region_id": 8,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10801228002,
@@ -21284,7 +21284,7 @@
     "city_id": 1228,
     "region_id": 8,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10801228004,
@@ -21340,7 +21340,7 @@
     "city_id": 1228,
     "region_id": 8,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10802332001,
@@ -21452,7 +21452,7 @@
     "city_id": 2332,
     "region_id": 8,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10802332017,
@@ -21466,14 +21466,14 @@
     "city_id": 2332,
     "region_id": 8,
     "name_ar": "حي التعاون",
-    "name_en": "At Taawun"
+    "name_en": "Taawun"
   },
   {
     "district_id": 10802332019,
     "city_id": 2332,
     "region_id": 8,
     "name_ar": "حي الديرة",
-    "name_en": "Ad Dirah"
+    "name_en": "Dirah"
   },
   {
     "district_id": 10802332020,
@@ -21690,7 +21690,7 @@
     "city_id": 2208,
     "region_id": 9,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10902208006,
@@ -21746,7 +21746,7 @@
     "city_id": 2208,
     "region_id": 9,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10902208014,
@@ -21767,7 +21767,7 @@
     "city_id": 2208,
     "region_id": 9,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10902208017,
@@ -21802,7 +21802,7 @@
     "city_id": 2208,
     "region_id": 9,
     "name_ar": "حي الشفا",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 10902208022,
@@ -21830,7 +21830,7 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الشروق الاداري",
-    "name_en": "Ash Shuruq Administrative"
+    "name_en": "Shuruq Administrative"
   },
   {
     "district_id": 10902213004,
@@ -21865,7 +21865,7 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 10902213009,
@@ -21879,7 +21879,7 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الشامل",
-    "name_en": "Ash Shamel"
+    "name_en": "Shamel"
   },
   {
     "district_id": 10902213011,
@@ -21900,7 +21900,7 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الصقًار",
-    "name_en": "As Saqar"
+    "name_en": "Saqar"
   },
   {
     "district_id": 10902213014,
@@ -21921,7 +21921,7 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الشذا",
-    "name_en": "Ash Shatha"
+    "name_en": "Shatha"
   },
   {
     "district_id": 10902213017,
@@ -21942,7 +21942,7 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الرفاع",
-    "name_en": "Ar Rifaa"
+    "name_en": "Rifaa"
   },
   {
     "district_id": 10902213020,
@@ -21963,7 +21963,7 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 10902213023,
@@ -21984,7 +21984,7 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي السعادة",
-    "name_en": "As Saadah"
+    "name_en": "Saadah"
   },
   {
     "district_id": 10902213026,
@@ -21998,7 +21998,7 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayaan"
+    "name_en": "Rayaan"
   },
   {
     "district_id": 10902213028,
@@ -22061,7 +22061,7 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10902213037,
@@ -22110,7 +22110,7 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 10902213044,
@@ -22320,7 +22320,7 @@
     "city_id": 2215,
     "region_id": 9,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10902215008,
@@ -22341,7 +22341,7 @@
     "city_id": 2215,
     "region_id": 9,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10902215011,
@@ -22411,7 +22411,7 @@
     "city_id": 2256,
     "region_id": 9,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 10902256011,
@@ -22432,7 +22432,7 @@
     "city_id": 2256,
     "region_id": 9,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 10902256014,
@@ -22446,7 +22446,7 @@
     "city_id": 2256,
     "region_id": 9,
     "name_ar": "حي الشمال",
-    "name_en": "Ash Shamal"
+    "name_en": "Shamal"
   },
   {
     "district_id": 10902256017,
@@ -22488,7 +22488,7 @@
     "city_id": 2256,
     "region_id": 9,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 10902256023,
@@ -22516,7 +22516,7 @@
     "city_id": 2256,
     "region_id": 9,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 10902256027,
@@ -22572,14 +22572,14 @@
     "city_id": 17,
     "region_id": 10,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 11000017005,
     "city_id": 17,
     "region_id": 10,
     "name_ar": "حي السويس",
-    "name_en": "As Suways"
+    "name_en": "Suways"
   },
   {
     "district_id": 11000017006,
@@ -22600,7 +22600,7 @@
     "city_id": 17,
     "region_id": 10,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 11000017009,
@@ -22614,21 +22614,21 @@
     "city_id": 17,
     "region_id": 10,
     "name_ar": "حي الشاطئ",
-    "name_en": "Ash Shati"
+    "name_en": "Shati"
   },
   {
     "district_id": 11000017011,
     "city_id": 17,
     "region_id": 10,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 11000017012,
     "city_id": 17,
     "region_id": 10,
     "name_ar": "حي الشامية",
-    "name_en": "Ash Shamiyah"
+    "name_en": "Shamiyah"
   },
   {
     "district_id": 11000017013,
@@ -22670,7 +22670,7 @@
     "city_id": 3479,
     "region_id": 10,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan"
+    "name_en": "Rayyan"
   },
   {
     "district_id": 11003479002,
@@ -22733,7 +22733,7 @@
     "city_id": 3479,
     "region_id": 10,
     "name_ar": "حي السعادة",
-    "name_en": "As Saadah"
+    "name_en": "Saadah"
   },
   {
     "district_id": 11003479011,
@@ -22761,7 +22761,7 @@
     "city_id": 3479,
     "region_id": 10,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 11003479015,
@@ -22796,7 +22796,7 @@
     "city_id": 3479,
     "region_id": 10,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 11003479020,
@@ -22824,7 +22824,7 @@
     "city_id": 3479,
     "region_id": 10,
     "name_ar": "الرونة",
-    "name_en": "Ar Rawnah"
+    "name_en": "Rawnah"
   },
   {
     "district_id": 11003479024,
@@ -23608,7 +23608,7 @@
     "city_id": 3525,
     "region_id": 10,
     "name_ar": "حي السادلية",
-    "name_en": "As Sadiliyah"
+    "name_en": "Sadiliyah"
   },
   {
     "district_id": 11003525002,
@@ -23622,7 +23622,7 @@
     "city_id": 3525,
     "region_id": 10,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 11003525004,
@@ -23650,14 +23650,14 @@
     "city_id": 3525,
     "region_id": 10,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 11003525008,
     "city_id": 3525,
     "region_id": 10,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 11003525009,
@@ -23678,7 +23678,7 @@
     "city_id": 3525,
     "region_id": 10,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 11003525012,
@@ -23706,7 +23706,7 @@
     "city_id": 3525,
     "region_id": 10,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 11003525016,
@@ -23755,14 +23755,14 @@
     "city_id": 3525,
     "region_id": 10,
     "name_ar": "حي الشاقة",
-    "name_en": "Ash Shakah"
+    "name_en": "Shakah"
   },
   {
     "district_id": 11003542001,
     "city_id": 3542,
     "region_id": 10,
     "name_ar": "حي الركوبة",
-    "name_en": "Ar Rakubah"
+    "name_en": "Rakubah"
   },
   {
     "district_id": 11003542002,
@@ -23825,14 +23825,14 @@
     "city_id": 3597,
     "region_id": 10,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 11003597002,
     "city_id": 3597,
     "region_id": 10,
     "name_ar": "حي الروابى",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 11003597003,
@@ -23874,7 +23874,7 @@
     "city_id": 3652,
     "region_id": 10,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 11003652006,
@@ -23895,7 +23895,7 @@
     "city_id": 3652,
     "region_id": 10,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 11003652009,
@@ -23972,7 +23972,7 @@
     "city_id": 2522,
     "region_id": 11,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salihiyah"
+    "name_en": "Salihiyah"
   },
   {
     "district_id": 11102522002,
@@ -24014,7 +24014,7 @@
     "city_id": 3347,
     "region_id": 11,
     "name_ar": "حي السوق",
-    "name_en": "As Suq"
+    "name_en": "Suq"
   },
   {
     "district_id": 11103347003,
@@ -24042,7 +24042,7 @@
     "city_id": 3347,
     "region_id": 11,
     "name_ar": "حي الروضة الشمالية",
-    "name_en": "Ar Rawdah Ash Shamaliyyah"
+    "name_en": "Rawdah Ash Shamaliyyah"
   },
   {
     "district_id": 11103347007,
@@ -24063,7 +24063,7 @@
     "city_id": 3347,
     "region_id": 11,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiiyah"
+    "name_en": "Sinaiiyah"
   },
   {
     "district_id": 11103347010,
@@ -24077,7 +24077,7 @@
     "city_id": 3347,
     "region_id": 11,
     "name_ar": "حي الروضة الجنوبية",
-    "name_en": "Ar Rawdah Al Janubiyyah"
+    "name_en": "Rawdah Al Janubiyyah"
   },
   {
     "district_id": 11103347012,
@@ -24154,7 +24154,7 @@
     "city_id": 3417,
     "region_id": 11,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 11103417011,
@@ -24280,7 +24280,7 @@
     "city_id": 3417,
     "region_id": 11,
     "name_ar": "حي الصفا",
-    "name_en": "As Safa"
+    "name_en": "Safa"
   },
   {
     "district_id": 11103417029,
@@ -24630,7 +24630,7 @@
     "city_id": 1542,
     "region_id": 12,
     "name_ar": "حي السلامة",
-    "name_en": "As Salamah"
+    "name_en": "Salamah"
   },
   {
     "district_id": 11201542004,
@@ -24651,7 +24651,7 @@
     "city_id": 1542,
     "region_id": 12,
     "name_ar": "حي الضباب",
-    "name_en": "Ad Dabab"
+    "name_en": "Dabab"
   },
   {
     "district_id": 11201542007,
@@ -24672,14 +24672,14 @@
     "city_id": 1542,
     "region_id": 12,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 11201542010,
     "city_id": 1542,
     "region_id": 12,
     "name_ar": "حي الشفا",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 11201542011,
@@ -24749,7 +24749,7 @@
     "city_id": 1542,
     "region_id": 12,
     "name_ar": "حي الطفير",
-    "name_en": "At Tafeer"
+    "name_en": "Tafeer"
   },
   {
     "district_id": 11202819001,
@@ -24791,14 +24791,14 @@
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 11302226012,
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الشفا",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 11302226015,
@@ -24819,7 +24819,7 @@
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الرحمة",
-    "name_en": "Ar Rahmah"
+    "name_en": "Rahmah"
   },
   {
     "district_id": 11302226018,
@@ -24833,7 +24833,7 @@
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 11302226020,
@@ -24868,14 +24868,14 @@
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الريحان",
-    "name_en": "Ar Raihan"
+    "name_en": "Raihan"
   },
   {
     "district_id": 11302226025,
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الدانة",
-    "name_en": "Ad Danah"
+    "name_en": "Danah"
   },
   {
     "district_id": 11302226026,
@@ -24889,7 +24889,7 @@
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayan"
+    "name_en": "Rayan"
   },
   {
     "district_id": 11302226028,
@@ -24917,14 +24917,14 @@
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 11302226032,
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الشروق",
-    "name_en": "Ash Shuruq"
+    "name_en": "Shuruq"
   },
   {
     "district_id": 11302226033,
@@ -24945,14 +24945,14 @@
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الرواد",
-    "name_en": "Ar Ruwad"
+    "name_en": "Ruwad"
   },
   {
     "district_id": 11302226036,
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 11302226037,
@@ -25015,7 +25015,7 @@
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 11302226046,
@@ -25043,7 +25043,7 @@
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الرفاع",
-    "name_en": "Ar Rifaa"
+    "name_en": "Rifaa"
   },
   {
     "district_id": 11302226050,
@@ -25078,7 +25078,7 @@
     "city_id": 2229,
     "region_id": 13,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 11302229003,
@@ -25092,7 +25092,7 @@
     "city_id": 2229,
     "region_id": 13,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 11302229005,
@@ -25120,7 +25120,7 @@
     "city_id": 2229,
     "region_id": 13,
     "name_ar": "حي السليمانية",
-    "name_en": "As Sulimaniyah"
+    "name_en": "Sulimaniyah"
   },
   {
     "district_id": 11302229009,
@@ -25134,7 +25134,7 @@
     "city_id": 2234,
     "region_id": 13,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 11302234002,
@@ -25155,28 +25155,28 @@
     "city_id": 2234,
     "region_id": 13,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 11302234005,
     "city_id": 2234,
     "region_id": 13,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 11302234006,
     "city_id": 2234,
     "region_id": 13,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayaan"
+    "name_en": "Rayaan"
   },
   {
     "district_id": 11302234007,
     "city_id": 2234,
     "region_id": 13,
     "name_ar": "حي التلال",
-    "name_en": "At Talal"
+    "name_en": "Talal"
   },
   {
     "district_id": 11302234008,
@@ -25218,7 +25218,7 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الشعلة",
-    "name_en": "Ash Shulah"
+    "name_en": "Shulah"
   },
   {
     "district_id": 11302237003,
@@ -25239,7 +25239,7 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الرحمانية",
-    "name_en": "Ar Rahmaniyah"
+    "name_en": "Rahmaniyah"
   },
   {
     "district_id": 11302237006,
@@ -25253,7 +25253,7 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 11302237008,
@@ -25302,14 +25302,14 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي السليمانية",
-    "name_en": "As Sulaymaniyah"
+    "name_en": "Sulaymaniyah"
   },
   {
     "district_id": 11302237015,
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah"
+    "name_en": "Rawdah"
   },
   {
     "district_id": 11302237016,
@@ -25365,7 +25365,7 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah"
+    "name_en": "Sinaiyah"
   },
   {
     "district_id": 11302237024,
@@ -25379,14 +25379,14 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayaan"
+    "name_en": "Rayaan"
   },
   {
     "district_id": 11302237026,
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 11302237027,
@@ -25428,14 +25428,14 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 11302237033,
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الشروق",
-    "name_en": "Ash Shrouk"
+    "name_en": "Shrouk"
   },
   {
     "district_id": 11302237034,
@@ -25470,7 +25470,7 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الطوير",
-    "name_en": "At Tuwair"
+    "name_en": "Tuwair"
   },
   {
     "district_id": 11302237039,
@@ -25484,21 +25484,21 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي السنابل",
-    "name_en": "As Sanabel"
+    "name_en": "Sanabel"
   },
   {
     "district_id": 11302237041,
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الضاحية",
-    "name_en": "Ad Dahiah"
+    "name_en": "Dahiah"
   },
   {
     "district_id": 11302237042,
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الشعيب",
-    "name_en": "Ash Shuaib"
+    "name_en": "Shuaib"
   },
   {
     "district_id": 11302237043,
@@ -25533,7 +25533,7 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الصديق",
-    "name_en": "As Sediq"
+    "name_en": "Sediq"
   },
   {
     "district_id": 11302237048,
@@ -25568,21 +25568,21 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   },
   {
     "district_id": 11302237053,
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي السوق",
-    "name_en": "As Suq"
+    "name_en": "Suq"
   },
   {
     "district_id": 11302237054,
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الشلهوب",
-    "name_en": "Ash Shalhub"
+    "name_en": "Shalhub"
   },
   {
     "district_id": 11302237055,
@@ -25610,7 +25610,7 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 11302237059,
@@ -25652,7 +25652,7 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي التلال",
-    "name_en": "At Talal"
+    "name_en": "Talal"
   },
   {
     "district_id": 11302237065,
@@ -25666,7 +25666,7 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي السنبلة",
-    "name_en": "As Sunbulah"
+    "name_en": "Sunbulah"
   },
   {
     "district_id": 11302237067,
@@ -25701,14 +25701,14 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الروابي",
-    "name_en": "Ar Rawabi"
+    "name_en": "Rawabi"
   },
   {
     "district_id": 11302237072,
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الرابية",
-    "name_en": "Ar Rabiyah"
+    "name_en": "Rabiyah"
   },
   {
     "district_id": 11302240001,
@@ -25736,7 +25736,7 @@
     "city_id": 2240,
     "region_id": 13,
     "name_ar": "حي الرحمانية",
-    "name_en": "Ar Rahmaniyah"
+    "name_en": "Rahmaniyah"
   },
   {
     "district_id": 11302240005,
@@ -25757,7 +25757,7 @@
     "city_id": 2240,
     "region_id": 13,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie"
+    "name_en": "Rabie"
   },
   {
     "district_id": 11302240008,
@@ -25869,7 +25869,7 @@
     "city_id": 2240,
     "region_id": 13,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salhiyah"
+    "name_en": "Salhiyah"
   },
   {
     "district_id": 11302240024,
@@ -25883,7 +25883,7 @@
     "city_id": 2240,
     "region_id": 13,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 11302240026,
@@ -25918,7 +25918,7 @@
     "city_id": 2268,
     "region_id": 13,
     "name_ar": "حي التحكيم",
-    "name_en": "At Tahkim"
+    "name_en": "Tahkim"
   },
   {
     "district_id": 11302268003,
@@ -25953,7 +25953,7 @@
     "city_id": 2268,
     "region_id": 13,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah"
+    "name_en": "Rabwah"
   },
   {
     "district_id": 11302268008,
@@ -26037,21 +26037,21 @@
     "city_id": 2268,
     "region_id": 13,
     "name_ar": "حي الرديفة والرافعية",
-    "name_en": "Ar Radifah Wal Rafeiyah"
+    "name_en": "Radifah Wal Rafeiyah"
   },
   {
     "district_id": 11302268022,
     "city_id": 2268,
     "region_id": 13,
     "name_ar": "حي الدانة",
-    "name_en": "Ad Danah"
+    "name_en": "Danah"
   },
   {
     "district_id": 11302268023,
     "city_id": 2268,
     "region_id": 13,
     "name_ar": "حي التلال",
-    "name_en": "At Talal"
+    "name_en": "Talal"
   },
   {
     "district_id": 11302268024,
@@ -26079,7 +26079,7 @@
     "city_id": 2268,
     "region_id": 13,
     "name_ar": "حي الشفاء",
-    "name_en": "Ash Shifa"
+    "name_en": "Shifa"
   },
   {
     "district_id": 11302268028,
@@ -26121,6 +26121,6 @@
     "city_id": 2270,
     "region_id": 13,
     "name_ar": "حي السلام",
-    "name_en": "As Salam"
+    "name_en": "Salam"
   }
 ]
